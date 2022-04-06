@@ -2,12 +2,14 @@
 
 ![teaser](images/teaser.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the second year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2021 from __Tues, May 4th &ndash; Sat, July 10th (10 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector. Further runs of the course later this year are in preparation. 
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the second year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2022 from __Mon, May 16th &ndash; Sun, July 10th (8 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector. Further runs of the course later this year are in preparation. 
 
-Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3a774c5a632ca64cd3a730f4c726b054b0%40thread.tacv2/1618999263034?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%221c4cc21f-0698-4756-b656-1d9b7595893a%22%7d)** (installed MS Teams application required). The session gives an overview over the course and we will answer questions. Sessions times are 
-* Thu, April 22, 6-7pm, BST
-* Mon, April 26, 6-7pm, BST
+## Info Sessions
+Meet the organizers and join our **[open info session on MS Zoom](https://ed-ac-uk.zoom.us/j/9015871567)** (pw:Pd2ZW59n). The session gives an overview over the course and we will answer questions. Sessions times are 
+* Wed, April 13, 5-6pm, BST
+* Wed, April 20, 5-6pm, BST
 
+## Course Content
 This online course teaches how to
 * visually __explore__ data
 * __criticise__ data visualisations, 
@@ -34,7 +36,7 @@ We encourage **BYOD---bring and work on your own data project** (we can sign non
 4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
 5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
 
-### Takeaways 
+## Takeaways 
 * A **certificate** to reflect a 10 credit-bearing course at Masters level (SCQF Level 11)
 * **Visual representation** of your dataset that enables you to answer the challenge you defined around it before and during the course.
 * **Skills** to develop further visual literacy to support data-driven work.
@@ -43,15 +45,16 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 <!-- ## Focus Groups -->
 
-## [Submit Application](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002)
+## **Submit Application (coming soon)** 
 
-Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the [application form](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002).
-
+Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the *application form* (coming soon).
 
 ## Course Delivery Information
-* Start Date: __04 May 2021__
-* Course Duration: __10 weeks__, complementing self-directed online learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss recorded lectures and corresponding quizzes
+* Start Date: __16 May 2021__
+* Course Duration: __8 weeks__, complementing self-directed online learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss recorded lectures and corresponding quizzes
 * Total Hours: __50-100hrs__ (Lecture Hours 10; Tutorial Hours 20; Independent Study Hours 30-70) 
 * Hourly investment: __5-10hrs__, including video lectures, reading, Q&As, project work.
 * Method of Assessment: __Coursework 100%__, including submission of your final project. 
 * The course does not award grades, but is assessed as PASS/FAIL. You will however receive one-on-one and detailed written feedback on your project.
+* Final submission deadline: __July 10th__
+* Results communicated: October 2022
