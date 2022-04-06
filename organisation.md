@@ -1,8 +1,8 @@
 # Course Description
 
-This online course aims to equip participants with the skills to use visualisation to uncover insight, to improve question answering, information discovery, to support informed decision-making and the creation of value from data.
+This online course aims to equip participants with the skills to use visualisation to create insight, to improve question-answering, information discovery, to support informed decision-making and to create value from data.
 
-The course is **NOT** 
+The course is **NOT**
 * about creating dashboards,
 * a [D3](https://d3js.org), [Leaflet](https://leafletjs.com), [GGplot](https://ggplot2.tidyverse.org) or other visualisation library programming course,
 * a Tableau, PowerBI, SAS or other commercial visualisation tool course.
@@ -13,8 +13,7 @@ This course **WILL**
 * help you to complement your domain expertise with creativity for problem solving and knowledge discovery,
 * teach how to assess and match your data needs to functionality and tools for data visualisation (with examples drawn from a variety of tools including Tableau, Rawgraphs, D3.js).
 
-<a name = "byod"></a>
-Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will point to open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) --- [github repository](https://github.com/fathominfo/noceilings-data)), [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland) and the [National Records of Scotland (NRS)](https://www.nrscotland.gov.uk/statistics-and-data).
+Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---Bring and work on Your Own Data** projects (though unfortunately we cannot sign non-disclosure agreements). Alternatively, class examples will point to open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) --- [github repository](https://github.com/fathominfo/noceilings-data)), [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland) and the [National Records of Scotland (NRS)](https://www.nrscotland.gov.uk/statistics-and-data).
 
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
@@ -79,8 +78,8 @@ The final assessment will require participants to work on an open visualisation 
 
 
 
-In addition to self-directed, online learning, individual help and feedback will be provided through forums and email, drop-in online-sessions, and local workshops in Edinburgh. 
+In addition to self-directed, online learning, individual help and feedback will be provided through forums and email, during weekly tutorials, and in dedicated 1-1 drop-in online-sessions with the organisers. 
 
-Tutorials and talks will be held at the University of Edinburgh, and along with external seminars, will be live-streamed and recorded for an online audience. 
+Tutorials and the majority of live discussion will be held online on MS Teams. 
 
-We aim to ensure course delivery is as flexible as possible to accommodate each participant’s work schedule. Course content is delivered through recorded online video lectures, suggested readings, online tutorials, quizzes, exercises that can be handed in to obtain feedback as well as optional advanced modules.
+We aim to ensure course delivery is as flexible as possible to accommodate each participant’s work schedule. Course content is delivered through recorded online video lectures, suggested readings, online tutorials, and exercises that can be handed in to obtain feedback as well as optional advanced modules.
