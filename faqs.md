@@ -13,18 +13,18 @@ We list here answers to questions from applicants and more detail about discussi
 1. You must have work experience beyond school; this may be in any sector. 
 1. You do not need to currently be in employment. 
 
-### Q:Do I qualify for a fee waiver?
+### Q: Do I qualify for a fee waiver?
 
 Eligibility criteria for a fee waiver are laid out [here](entry.html).
 
 ### Q: Completing the application form
 
-Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. Applications for 2021 are now closed.
+Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. Applications are not yet open.
 <!-- The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply).--> 
 
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
 
-The Bayes Centre will continue to accept applications for this course till close of play Fri, 21st April 2021. 
+Once open, The Bayes Centre will accept applications for this course till close of play Fri, 29th April 2022. 
 
 #### Course offers
 
@@ -46,8 +46,9 @@ If you are reliant on fee waivers, please note that these are normally restricte
 
 ### Q: What software do I need for the course?
 
-We will use the [Blackboard Collaborate virtual classroom](http://www.ed.ac.uk/is/collaborate) for interactive sessions (tutorials and lecture Q&amp;As). To join you will need an internet connection that can support web conferencing and a web browser. Blackboard will also normally work on a mobile device via its app. 
-We also have full access to [Teams](https://www.microsoft.com/en-gb/microsoft-teams/free#office-CustomSpacingTemplate-nifj37h), so will have this as a backup option if this provides more reliable connectivity for the class. 
+<!-- We will use the [Blackboard Collaborate virtual classroom](http://www.ed.ac.uk/is/collaborate) for interactive sessions (tutorials and lecture Q&amp;As). To join you will need an internet connection that can support web conferencing and a web browser. Blackboard will also normally work on a mobile device via its app.  -->
+<!-- We also have full access to [Teams](https://www.microsoft.com/en-gb/microsoft-teams/free#office-CustomSpacingTemplate-nifj37h), so will have this as a backup option if this provides more reliable connectivity for the class.  -->
+Live elements of the course will primarily be run on [MS Teams](https://www.microsoft.com/en-gb/microsoft-teams/free#office-CustomSpacingTemplate-nifj37h) with all pre-recorded content being accessible through any modern web browser.
 
 We will provide information on accessing and/or installing any other software used in tutorials as and when needed. This is not required as we will provide live demos where necessary. If you wish to try a new tool, some may be accessed from a web browser. Installing desktop tools will remain optional. 
 
@@ -77,7 +78,7 @@ Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provid
 
 ### Q: What if I have sensitive and/or private data? 
 
-Unfortunately, we cannot provide support for non-disclosure agreements. To take full advantage of the (optional) hands-on tutorial sessions, you may wish to share some aspects and visualisations about your data, to obtain peer and tutor feedback. We will provide guidance for doing so without revealing sensitive information. 
+Unfortunately, we cannot provide support for non-disclosure agreements. To take full advantage of the (optional, but highly recommended) hands-on tutorial sessions, you may wish to share some aspects and visualisations about your data, to obtain peer and tutor feedback. We will provide guidance for doing so without revealing sensitive information. 
 
 ### Q: Can I work alone on my project, or do I have to work in a group? 
 
@@ -86,9 +87,9 @@ We anticipate most participants will carry out individual projects. However, you
 Please note that in either case each participant will complete a brief, individual reflection exercise to accompany their project.
 <p>&nbsp;</p>
 
-### Q: Can I visualize qualitative data? 
+### Q: Can I visualise qualitative data? 
 
-It depends, visualization is a broad field with many techniques covering many data types. For example, the course covers networks, hierarchies and set-relationships. If you have textual data that you are analyzing and seek to represent structures in the data and the concpets, the course can help you. 
+It depends, visualisation is a broad field with many techniques covering many data types. For example, the course covers networks, hierarchies and set-relationships. If you have textual data that you are analyzing and seek to represent structures in the data and the concpets, the course can help you. 
 
 
 ## Course Assessment
