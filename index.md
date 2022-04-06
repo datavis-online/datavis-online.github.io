@@ -5,7 +5,7 @@
 The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the second year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2022 from __Mon, May 16th &ndash; Sun, July 10th (8 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector. Further runs of the course later this year are in preparation. 
 
 ## Info Sessions
-Meet the organizers and join our **[open info session on MS Zoom](https://ed-ac-uk.zoom.us/j/9015871567)** (pw:Pd2ZW59n). The session gives an overview over the course and we will answer questions. Sessions times are 
+Meet the organisers and join our **[open info session on Zoom](https://ed-ac-uk.zoom.us/j/9015871567)** (pw:Pd2ZW59n). In this session, we will give an overview of the course and answer any questions. Sessions times are:
 * Wed, April 13, 5-6pm, BST
 * Wed, April 20, 5-6pm, BST
 
@@ -25,16 +25,16 @@ It covers the fundamentals of
 * tools for data visualisation, and
 * evaluation.
 
-With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
+With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __tutorials__, __drop-in sessions__ and __complementary online teaching material__. More about the [course organisation](organisation.html) and its [schedule](content.html).
 
-We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
+We encourage **BYOD---Bring and work on Your Own Data** projects (though we unfortunately cannot formally sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
 
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
-2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
-3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
+2. **Structure:** Break down the project with consideration for its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
+3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier-identified challenge.
 4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
-5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
+5. **Apply:** Competently apply a wide range of visualisation techniques and tools, informed by their particular features and drawbacks.
 
 ## Takeaways 
 * A **certificate** to reflect a 10 credit-bearing course at Masters level (SCQF Level 11)
@@ -47,7 +47,7 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 ## **Submit Application (coming soon)** 
 
-Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the *application form* (coming soon).
+Applications will soon be accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the *application form* (coming soon).
 
 ## Course Delivery Information
 * Start Date: __16 May 2021__
