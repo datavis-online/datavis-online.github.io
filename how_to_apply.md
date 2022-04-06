@@ -27,7 +27,7 @@ A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce
 Guidelines follow on how to fill in the University's application form. 
 
 ### Starting data
-Please select start date *1 May* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and _at least two weeks in advance of the course start_ (**4 May**).
+Please select start date *16 May* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and _at least two weeks in advance of the course start_ (**2 May**).
 
 
 ### Sections 1&ndash;3 
@@ -40,17 +40,15 @@ We highlight below only those sections that are mandatory. You may leave other s
 
 <h4>Personal Statement</h4>
 
-You **MUST** state that you are registering for the course ***'Data Visualisation for Professionals'*** here. This field asks also for some indication of your motivation for taking this
-course. 
+You **MUST** state that you are registering for the course ***'Data Visualisation for Professionals'*** here. This field asks also for some indication of your motivation for taking this course. 
 
 <h4>Relevant Knowledge/Training Skills</h4>
 
 Please provide a brief summary, describing how you qualify to take the course &ndash; the form provides some detail about what is required here.
 
-
 ### Sections 5&ndash; Qualifications &amp; 6&ndash; Employment
 
-Because is is accredited, the university requires evidence that you are qualified to take the course. Please provide information on either academic or professional qualifications:
+Because this course is accredited, the university requires evidence that you are qualified to attend. Please provide information on either academic or professional qualifications:
 
 1. evidence of completion of a university degree, using copies of certificates or transcripts or links to institutions that generate formal verfication of your degree. Please note that *ANY* university degree is acceptable; we do *NOT* require applicants to have a technical or computer-related degree. 
 If you do not have a degree or other tertiary qualification please enter ***N/A*** for this section. 
