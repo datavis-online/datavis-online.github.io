@@ -4,7 +4,7 @@
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/iain.jpg"/></td>
     <td style="vertical-align:top;">
-      <b>Iain Carson, PhD,</b> is an Associate Lecturer in Human Computer Interaction at the University of St Andrews. His current teaching focuses on interactive information visualization, design and usability. He is part of [SACHI](https://sachi.cs.st-andrews.ac.uk/people/) at the University of St Andrews.
+      <b>Iain Carson, PhD,</b> is an Associate Lecturer in Human Computer Interaction at the University of St Andrews. His current teaching focuses on interactive information visualization, design and usability. He is part of <a href="https://sachi.cs.st-andrews.ac.uk/people">SACHI</a> at the University of St Andrews.
       <ul>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/iain-carson/">/iain-carson/</a></li>
       </ul>
