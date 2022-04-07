@@ -22,7 +22,7 @@
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/me.png"/></td>
     <td style="vertical-align:top;">
-      <b><!-- a href="bach.html" -->Benjamin Bach, PhD<!-- /a -->,</b> is a Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh where he is co-leading the <a href="vishub.net">Vishub</a> research group.     His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations. He is part of the [Visual+Interactive Data Group](interactivedata.github.io) at the University of Edinburgh.
+      <b><!-- a href="bach.html" -->Benjamin Bach, PhD<!-- /a -->,</b> is a Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh where he is co-leading the <a href="https://vishub.net">Vishub</a> research group.     His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations. He is part of the [Visual+Interactive Data Group](interactivedata.github.io) at the University of Edinburgh.
       <ul>
         <li>Web: <a href="http://benjbach.net">http://benjbach.net</a></li>
         <li>Twitter: <a href="https://twitter.com/benjbach">@benjbach</a></li>
