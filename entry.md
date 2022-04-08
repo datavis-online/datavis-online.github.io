@@ -4,7 +4,7 @@
 * If you do not meet the minimum academic requirement, you may still be considered if you have relevant work experience
 
 Full details on entry requirements and acceptable relevant work experience are provided through the application portal:
-[Entry Requirements](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation)
+[Entry Requirements](https://www.ed.ac.uk/bayes/about-us/education/workforce-development/courses/data-visualisation-for-professionals)
 
 If you are unsure whether you meet any criteria please send your CV to [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk). Please also look at the [answers to common questions](how_to_apply.md) from applicants on the process, along with detail on eligibility for fee waivers.
 
