@@ -9,7 +9,7 @@ Please check our [FAQs](faqs.md) for any question.
 <a name = "funding_applications"></a>
 ## Eligibility for funding
 
-The Scottish Funding Council (SFC) is providing a number of fee waivers; people normally resident in Scotland <!--or the rest of the EU--> (for at least 3 years) may qualify for funding &ndash; [more detail on eligibility is available here](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation). You may also qualify for funding under the new [National Transition Training Fund](https://www.myworldofwork.co.uk/national-transition-training-fund).
+The Scottish Funding Council (SFC) is providing a number of fee waivers; people normally resident in Scotland <!--or the rest of the EU--> (for at least 3 years) may qualify for funding &ndash; [more detail on eligibility is available here](https://www.ed.ac.uk/bayes/about-us/education/workforce-development/courses/data-visualisation-for-professionals). You may also qualify for funding under the new [National Transition Training Fund](https://www.myworldofwork.co.uk/national-transition-training-fund).
 Waivers are granted on a first-come, first-served basis. While the funding cap has not yet been reached, we suggest you apply for assessment as soon as you decide to take the course. 
 
 <!-- Applications are currently being processed; if you meet the basic requirements and have not yet received a response for an application for assessment you should receive one in due course. You may complete a course application in the meantime &ndash; please note this in the funding section and the applications will be linked.  -->
