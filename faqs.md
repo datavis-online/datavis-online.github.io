@@ -16,7 +16,7 @@ We list here answers to questions from applicants and more detail about discussi
 ### Q: Do I qualify for a fee waiver?
 
 Eligibility criteria for a fee waiver are laid out [here](entry.html).
-For questions regarding fees and applications please [email Bayes](mailto:fraser.pullar@ed.ac.uk,bayes-training@ed.ac.uk)
+For questions regarding fees and applications please [email Bayes](mailto:bayes-training@ed.ac.uk)
 
 ### Q: Completing the application form
 
@@ -27,7 +27,7 @@ We have provided [answers to common questions](how_to_apply.md) from applicants 
 
 While application before Fri, 29th April 2022 is preffered (in order to distribute relevant course content for preparation in advance), the Bayes Centre will accept applications for this course till close of play Fri, 9th May 2022.
 
-For questions regarding fees and applications please [email Bayes](mailto:fraser.pullar@ed.ac.uk,bayes-training@ed.ac.uk).
+For questions regarding fees and applications please [email Bayes](mailto:bayes-training@ed.ac.uk).
 
 #### Course offers
 
