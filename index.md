@@ -47,9 +47,9 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 <!-- ## Focus Groups -->
 
-## **Submit Application (coming soon)** 
+## **Submit Application** 
 
-Applications will soon be accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the [__application form__](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUQUJETVM0UTFITEVQVzZNTUVFTVhEOU1QTS4u&wdLOR=c675E99C0-A068-A34E-A6DE-B7F0B62FBEF5).
+Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the [__application form__](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUQUJETVM0UTFITEVQVzZNTUVFTVhEOU1QTS4u&wdLOR=c675E99C0-A068-A34E-A6DE-B7F0B62FBEF5).
 
 ## Course Delivery Information
 * Start Date: __16 May 2021__
