@@ -19,12 +19,12 @@ Eligibility criteria for a fee waiver are laid out [here](entry.html).
 
 ### Q: Completing the application form
 
-Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. Applications are not yet open.
-<!-- The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply).--> 
+Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh.
+The [course application is open](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUQUJETVM0UTFITEVQVzZNTUVFTVhEOU1QTS4u&wdLOR=c675E99C0-A068-A34E-A6DE-B7F0B62FBEF5).
 
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
 
-Once open, The Bayes Centre will accept applications for this course till close of play Fri, 29th April 2022. 
+While application before Fri, 29th April 2022 is preffered (in order to distribute relevant course content for preparation in advance), the Bayes Centre will accept applications for this course till close of play Fri, 9th May 2022.
 
 #### Course offers
 
