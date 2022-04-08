@@ -2,9 +2,6 @@
 
 Applications for the course are not handled through the course organising team, but centrally through the University of Edinburgh. As any application follows the standard university application proceedure, this section provides more detail on the different forms involved:
   
-  * Read the guides to completing: 
-    * [assessment of eligibilty for funding](#funding_applications)
-    * centralised [course application form](#course_applications)
   * [__Apply through the University__](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUQUJETVM0UTFITEVQVzZNTUVFTVhEOU1QTS4u&wdLOR=c675E99C0-A068-A34E-A6DE-B7F0B62FBEF5) with a deadline on April 29th.  
 
 Please check our [FAQs](faqs.md) for any question. 
@@ -18,7 +15,7 @@ Waivers are granted on a first-come, first-served basis. While the funding cap h
 <!-- Applications are currently being processed; if you meet the basic requirements and have not yet received a response for an application for assessment you should receive one in due course. You may complete a course application in the meantime &ndash; please note this in the funding section and the applications will be linked.  -->
 <p>&nbsp;</p>
 
-
+<!--
 <a name = "course_applications"></a>
 ## Completing course application form
 
@@ -71,4 +68,4 @@ You may be required to provide a referee &ndash; this may be your current or a p
 If you provide a peer / colleague / personal referee please ask them to indicate in their reference understanding of your capability to take the course. This does not need to be explicit, but may refer, for example, to a working relationship, or mention capabilities or skills they have observed in their interaction with you, or relevant activities you have undertaken. Please note that such references do not have to be on a letterhead.
 
 Please provide contact details including e-mail in this section; the University will send information on how to submit the reference directly to your referee.
-
+-->
