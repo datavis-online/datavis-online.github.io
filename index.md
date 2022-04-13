@@ -12,7 +12,7 @@ Meet the organisers and join our **[open info session on Zoom](https://ed-ac-uk.
 * Wed, April 20, 5-6pm, BST
 
 ## Pre-course Updates
-You can express interest in the course and be kept updated by [signing up here](https://forms.gle/SGht1vqjMzkNAL1H8).
+You can express interest in the course and be kept updated by [signing up here](https://forms.gle/My2yhyJVVXwwu1eT8).
 
 ## Course Content
 This online course teaches how to
