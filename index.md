@@ -4,10 +4,10 @@
 
 The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the third year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2022 from __Mon, May 16th &ndash; Sun, July 10th (8 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector. Further runs of the course later this year are in preparation. 
 
-The **application deadline** for this course is applications is April 29.
+The **application deadline is April 29**.
 
 ## Info Sessions
-Meet the organisers and join our **[open info session on Zoom](https://ed-ac-uk.zoom.us/j/9015871567)** (pw:Pd2ZW59n). In this session, we will give an overview of the course and answer any questions. Sessions times are:
+Meet the organisers and join our **[open info session on Zoom](https://ed-ac-uk.zoom.us/j/9015871567)** (pw:Pd2ZW59n). In this session, we will give an overview of the course ([access slides](https://docs.google.com/presentation/d/1Y_8wtHCoevBhdIszV969bC7928xsoUp4PuJkoU-BRtc/edit?usp=sharing)) and answer any questions. Sessions times are:
 * Wed, April 13, 5-6pm, BST
 * Wed, April 20, 5-6pm, BST
 
