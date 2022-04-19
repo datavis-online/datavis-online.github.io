@@ -16,7 +16,7 @@ The *Scottish Funding Council (SFC) Upskilling Fund* provides a __fixed number o
 * you have been living in Scotland for the last three years for reasons other than education.
 * you are an EU citizen living in the EU.
 * you live in the rest of the UK but work for a Scottish employer (an employer which is based in or has a significant presence in Scotland).
-* PhD students, RAs, and other academic staff at a Scottish or EU university (**not** including the rest of the UK). 
+* RAs, and other academic staff at a Scottish or EU university (**not** including the rest of the UK, not including PhD students). 
  
 You will *not* qualify for fee waivers if __any__ of the following applies:
 * you live in England, Wales, or Northern Ireland without ties to a Scottish employer.
