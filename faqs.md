@@ -76,7 +76,7 @@ Please note that if you choose not to attend tutorials you **must** still follow
 We encourage participants to come with an idea and/or data for their project, from work or of personal interest.  
 Please note you do not need to have an idea formulated in advance; we will address projects and input data in the first week's tutorials. We will also provide [pointers to public, open datasets](organisation.md#byod).
 
-Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss ideas prior to course start. 
+Please [complete our interest form](https://forms.gle/3chhcpVzFVk4Eb7dA) and provide your contact details or [e-mail us](mailto:icarson3@ed.ac.uk) if you wish to discuss ideas prior to course start. 
 
 
 ### Q: What if I have sensitive and/or private data? 
