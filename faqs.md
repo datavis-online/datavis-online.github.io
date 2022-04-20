@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-We list here answers to questions from applicants and more detail about discussions on key topics raised during interviews with potential course applicants. This is a live document and will be updated regularly; please [e-mail us](mailto:iain.carson@gmail.com) if you have any questions not addressed here. 
+We list here answers to questions from applicants and more detail about discussions on key topics raised during interviews with potential course applicants. This is a live document and will be updated regularly; please [e-mail us](mailto:icarson3@ed.ac.uk) if you have any questions not addressed here. 
 <p>&nbsp;</p>
 
 
