@@ -8,26 +8,24 @@ This page contains links to
 
 ## What Am I Supposed To Do During a Week? 
 
-Each week has a [topic](#course_organisation). All of that written below is optional, and serves as a guide to planning your work: 
+Each week has a [topic](#course_organisation). All of that written below is optional, and serves as a guide to planning your work:
 
 * watch the video lectures (with accompanying slides) (~1h)
 * browse any recommended reading material (~1h)
-* participate in the tutorial on [Teams](http://bit.ly/DataVis4ProfTeams2021) (2h). There is a channel for each tutorial group A and B. Sessions are recorded (recordings will automatially appear in the channel); tutorial scripts are linked from the schedule.
-* submit the week's quizzes via Teams and check your answers against the sample solutions (provided after submission) (~1h)
-* attend the Q&A sessions in the dedicated channel on Teams. Q&A sessions are also recorded.
-* some weeks do have milestone assignments, which must be submitted through [Learn VLE](http://bit.ly/sfcdv2021_on_learn). 
-* update your journal.
+* participate in the [weekly tutorial](#timetable) on [Teams](https://bit.ly/dv4p2022) (2h). <!-- There is a channel for each tutorial group A and B. Sessions are recorded (recordings will automatially appear in the channel); tutorial scripts are linked from the schedule. -->
+* book and attend a 1-1 meeting with one of us. <!-- TODO - insert link? -->
+* submit the week's quizzes via Teams and check your answers against the sample solutions (~1h)
+* attend the [Q&A sessions](#timetable) in the dedicated channel on Teams. Q&A sessions are also recorded.
+* submit any relevant milestone assignments on [Teams](https://bit.ly/dv4p2022).
 
-Schedule for tutorials and Q&A sessions [below](#timetable).
+
 <br />
-
 
 ## Resources & Important Links
 
 Resources you may need during the course. 
 
-* **[Teams](http://bit.ly/DataVis4ProfTeams2021):** **note** you must be logged in to your Office365 account for this course for this link to work.   
-* **[Learn VLE](http://bit.ly/sfcdv2021_on_learn)**: **note** you must be logged in to the university for this link to work.
+* **[Teams](https://bit.ly/dv4p2022):** **note** you must be logged in to your Edinburgh Office365 account for this course for this link to work.   
 <!-- * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available -->
 
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   
@@ -50,12 +48,12 @@ Resources you may need during the course.
 
 ## [Assessment Guidelines](assessment.md)
 
-In addition to the final project, the course has **three** assignments that need to be submitted to pass. Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. You must also attempt weekly quizzes.
-
+In addition to the final project, the course has **two** milestone [assignments](assessment.md). While optional, feedback will only be provided if they are submitted before their respective deadlines.
+The final project is the only mandatory assignment.
 
 ## [Tutorial Guidelines](tutorials.md)
 
-Please remember that while strongly encouraged, **participation in tutorials and all other interactive sessions is OPTIONAL**. Please read the [guidelines](tutorials.md) before attending your first interactive session; these take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. 
+Please remember that while **strongly encouraged**, participation in tutorials and all other interactive sessions is **optional**. Please read the [guidelines](tutorials.md) before attending your first interactive session; these take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. 
 
 ***
 
@@ -67,25 +65,33 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr>
     <th>Session</th>
     <th>Lectures</th>
-    <th>Tutorials</th>
+    <th>Tutorial</th>
     <th>Assessment</th>
   </tr>
 
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 1 &ndash; May 03</h4></th>
-  </tr><tr style = "vertical-align:top;">
-   <td><a href="session-1-1">1-1</a></td>
+    <th colspan = "4"><h4>Week 1 &ndash; May 16</h4></th>
+  </tr>
+  <tr style = "vertical-align:top;">
+   <td><a href="session-0">0</a></td>
+   <td>Course introduction</td>
+   <td>-</td>
+   <td>-</td>
+  <tr style = "vertical-align:top;">
+   <td><a href="session-1">1</a></td>
    <td>
-      <a href="session-1-1#lecture">Course introduction</a>
-    </td><td>
-      <a href="session-1-1#tutorial-fortyfive_ways">45 ways</a><br/>
-      <a href="session-1-1#tutorial-vis_lies">Visualisation lies</a><br/>
-      <a href="session-1-1#tutorial-basic_charts">Basic charts</a>
-    </td><td>
+      <a href="session-1#lecture">Datavis introduction<br> &amp; Basic concepts</a>
     </td>
+    <td>
+      <a href="session-1#tutorial-fortyfive_ways">45 ways</a><br/>
+      <a href="session-1#tutorial-vis_lies">Visualisation lies</a><br/>
+      <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
+      <!-- <a href="session-1#tutorial-basic_charts">Basic charts</a> -->
+    </td>
+    <td>-</td>
   </tr>
  
-  <tr style = "vertical-align:top;">
+  <!-- <tr style = "vertical-align:top;">
    <td><a href="session-1-2">1-2</a></td>
    <td>
       <a href="session-1-2#lecture">Basic concepts</a>
@@ -95,10 +101,10 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-1-2#assignment">Project brief</a>
     </td>
-  </tr>
+  </tr> -->
 
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 2 &ndash; May 10</h4></th>
+    <th colspan = "4"><h4>Week 2 &ndash; May 23</h4></th>
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-2">2</a></td>
    <td>
@@ -106,12 +112,12 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-2#tutorial-design-sketching">Design (Sketching)</a><br/>
     </td><td>
-      <a href="session-2#assignment">Project design</a>
+      <a href="session-2#assignment">Project brief</a>
     </td>
   </tr>
  
   <tr style = "vertical-align:top;">
-     <th colspan = "4"><h4>Week 3 &ndash; May 17</h4></th>
+     <th colspan = "4"><h4>Week 3 &ndash; May 30</h4></th>
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-3">3</a></td>
     <td>
@@ -119,12 +125,12 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-3#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
     </td><td>
-     <a href="session-3#assignment">Tool review</a>
+     -
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 4 &ndash; May 24</h4></th>
+    <th colspan = "4"><h4>Week 4 &ndash; Jun 6</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-4">4</a></td>
     <td style = "vertical-align:top;">
@@ -132,12 +138,12 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/>
     </td><td>
-      Update project brief &amp; design
+      Sketches
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 5 &ndash; May 31</h4></th>
+    <th colspan = "4"><h4>Week 5 &ndash; Jun 13</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-5">5</a></td>
     <td style = "vertical-align:top;">
@@ -145,44 +151,46 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-5#tutorial-critical-analysis">Critical analysis &amp; reflection</a>
     </td><td>
-      Update project brief &amp; design
+      -
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 6 &ndash; Jun 07</h4></th>
+    <th colspan = "4"><h4>Week 6 &ndash; Jun 20</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-6">6</a></td>
     <td style = "vertical-align:top;">
       <a href="session-6#lecture">Storytelling</a>
     </td><td>
-      <a href="session-6#design-data-comics">Data Comics Workshop</a>
+      <a href="session-6#design-data-comics">Storyboarding</a>
     </td><td>
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 7 &ndash; Jun 14</h4></th>
+    <th colspan = "4"><h4>Week 7 &ndash; Jun 27</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-7">7</a></td>
     <td style = "vertical-align:top;">
-      <a href="session-7#lecture">Data Physicalisation & Personal Data Visualisation</a>
+      <a href="session-7#lecture">Evaluation &amp; Interaction Design</a>
     </td><td>
-       <a href="session-7#tutorial-programming_clinic">Programming Clinics</a>
+       <a href="session-7#tutorial-programming_clinic">Evaluation</a>
     </td><td>
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 8 &ndash; Jun 21</h4></th>
+    <th colspan = "4"><h4>Week 8 &ndash; Jul 4</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td>8</td>
-    <td style = "vertical-align:top;" colspan = 3>
+    <td><a href="session-8">8</td>
+    <td style = "vertical-align:top;">
       Project 1-on-1s
     </td>
+    <td>-</td>
+    <td>Final Project</td>
   </tr>
   
-  <tr style = "vertical-align:top;">
+  <!-- <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 9 &ndash; Jun 28</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-9">9</a></td>
@@ -211,7 +219,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
       Implementation &ndash; project
     </td><td>
     </td>
-  </tr>
+  </tr> -->
   
 </table>
 
@@ -226,9 +234,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
 * The same tutorial runs twice a week to have smaller tutorial groups. The groups are A and B in the schedule. At the beginning of the course, you should choose which group you are in. 
 * A is running in the mornings, 
 * B is running in the evenings (+ Saturday only in week 1) 
-* __Please note there is an additional tutorial session during [week 1](../images/timetable_week1_only.png):__
-  * T-1: Thurs 10-12:00 (BST)
-  * T-2: Sat 09:30-11:30 (BST)
+* __Please note there is a welcome session during [week 1](../images/timetable_week1_only.png):__
+  * T-1: Mon 10-12:00 (BST)
+  <!-- * T-2: Sat 09:30-11:30 (BST) -->
 * There are 2 Lecture Q&As per week. They are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As. The content of these sessions depends on the participants asking questions. 
 * __Note all times are BST__
 
