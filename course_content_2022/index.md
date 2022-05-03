@@ -57,10 +57,12 @@ Please remember that while **strongly encouraged**, participation in tutorials a
 
 ***
 
+
 <a name = "course-organisation"></a>
 ## Course Organisation
 
 <table>
+
   <tr>
     <th>Session</th>
     <th>Lectures</th>
@@ -76,6 +78,8 @@ Please remember that while **strongly encouraged**, participation in tutorials a
    <td><a href="session-0">Course introduction</a></td>
    <td>-</td>
    <td>-</td>
+  </tr>
+
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 1 &ndash; May 16</h4></th>
   </tr>
@@ -92,18 +96,6 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td>-</td>
   </tr>
  
-  <!-- <tr style = "vertical-align:top;">
-   <td><a href="session-1-2">1-2</a></td>
-   <td>
-      <a href="session-1-2#lecture">Basic concepts</a>
-    </td><td>
-      <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
-      <a href="session-1-2#tutorial-eda_1">EDA &ndash; Exploratory Data Analysis</a>
-    </td><td>
-      <a href="session-1-2#assignment">Project brief</a>
-    </td>
-  </tr> -->
-
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; May 23</h4></th>
   </tr><tr style = "vertical-align:top;">
@@ -139,7 +131,6 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td style = "vertical-align:top;">
       <a href="session-4#lecture">Visualization Techniques I/II</a><br/>
     </td><td>
-      <!-- <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/> -->
       Tool tutorials
     </td><td>
       Sketches
@@ -153,7 +144,6 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td style = "vertical-align:top;">
       <a href="session-5#lecture">Visualization Techniques II/II</a><br/>
     </td><td>
-      <!-- <a href="session-5#tutorial-critical-analysis">Critical analysis &amp; reflection</a> -->
       Tool tutorials
     </td><td>
       -
@@ -205,13 +195,11 @@ Please remember that while **strongly encouraged**, participation in tutorials a
 <a name = "timetable"></a>
 ## Timetable
 
+
 * __Please note there is a welcome session in week 0 (before the course starts!) [Wednesday 11th May, 5pm (BST) on Zoom](https://ed-ac-uk.zoom.us/j/86258573125) (pwd sent to you in welcome email)__. If you can't make this session, don't worry, it will be recorded and made available on [Teams](https://bit.ly/dv4p2022).
 * Weekly tutorial times will be decided before Week 1. Express preference [here](https://www.when2meet.com/?15496393-25Irc).
+* __Note all times are BST__
 
   <!-- * T-1: Mon 10-12:00 (BST) -->
   <!-- * T-2: Sat 09:30-11:30 (BST) -->
 <!-- * There are 2 Lecture Q&As per week. They are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As. The content of these sessions depends on the participants asking questions.  -->
-* __Note all times are BST__
-
-<br />
-
