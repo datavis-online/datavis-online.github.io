@@ -1,4 +1,4 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
 
 # Week :

@@ -1,24 +1,30 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
 
-# Week 1: Visualization Design
+# Week 1: Basic Concepts
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) | [Assignment](#assignment)
+[Lectures](#lectures) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial)
 <p><br /></p>
 
-#### Session topics
+### Session topics
 
-<table>
-   <tr>
-      <td>Data Vis pipeline</td>
-      <td><img src = "../images/data_vis_pipeline.png" alt = "data vis pipeline" height = "250" /></td>
-   </tr><tr>
-      <td colspan = "2">Challenge -> visual encoding -> visualization -> understanding</td>
-  </tr>
-</table>
-<!-- ![Data Vis pipeline](../images/data_vis_pipeline.png | width=250) -->
+Introduction to Data Visualization:
+* Forms of visualization 
+    * Infographics
+    * Interactives
+    * Physicalizations
+    * Comics 
+    * Storytelling
+    * Scientific visualization 
+* Exploration vs. Explanation
+* Anscombe's Quartet
+* Visualization lies
+* Visualization literacy
+    * Bertin's tasks: Low-level/high-level 
+* Defining visualization
+    * Formal definition
 
-
+Working With Visualizations:
 * Visualization Pipeline
 * Design thinking
    * Human-centered research
@@ -28,15 +34,14 @@ back to [course content](index#course_organisation)
 * Exploratory Data Visualization
 <p>&nbsp;</p>
 
-# Lecture 
+# Lectures
 
 ### Slides
-
-* [Introduction to Data Visualization](files/1.1-introduction.pdf)  
+* [Introduction to Data Visualization](files/1.1-introduction.pdf)
 * [Working with Visualizations](files/1.2-working_with_visualizations.pdf)
 
-#### Video lectures
-Intro:
+### Video Lectures
+Introduction:
 * [Datavis-1.1-1: Outline (1:02)](https://drive.google.com/file/d/1QCRPaukHgDWdS3xQvxyDhOh7vye6rJ0b/view?usp=sharing)
 * [Datavis-1.1-2: What is visualization? (18:30)](https://drive.google.com/file/d/1LcYdvrtrlm6zi5W2CQjUF0h1RDe-lfte/view?usp=sharing)
 * [Datavis-1.1-3: Defining Visualization? (2:48)](https://drive.google.com/file/d/1cw1-zHEed8LhLy6TLB0DPhZCaSxH-W8T/view?usp=sharing)
@@ -44,7 +49,7 @@ Intro:
 * [Datavis-1.1-5: Visualization Literacy (24:42)](https://drive.google.com/file/d/16JmUyVOSMj9ztvKjsBm5X33Tg5b0diwy/view?usp=sharing)
 * [Datavis-1.1-6: Wrap up (1:30)](https://drive.google.com/file/d/1WjlC7m0rVHY94gkWb-9ilRTfu209HtyZ/view?usp=sharing)
 
-Design:
+Working with Visualizations:
 * [Datavis-1.2-1: Outline (1:29)](https://drive.google.com/file/d/1O15PGttUFkCdKQo0XVEFB7iCDME2XkXx/view?usp=sharing)
 * [Datavis-1.2-2: The Visualization Pipeline (12:32)](https://drive.google.com/file/d/154Pho6WP-2So2LZ1fN1_Cw4pmMw4i7t1/view?usp=sharing)
 * [Datavis-1.2-3: Design Thinking (20:33)](https://drive.google.com/file/d/1QbZKKV6n6Bjlq0ksxkantDpNlFiGyqAJ/view?usp=sharing)
@@ -55,10 +60,11 @@ Design:
 
 
 <a name = "reading"></a>
-#### Reading list
+# Reading list
 
 **Core:**    
 * Tamara Munzner (2014) Visualization Analysis and Design, [chapter 1: What’s Vis, and Why Do it?](https://doi.org/10.1201/b17511-1) &nbsp; [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)
+* Tamara Munzner (2014) Visualization Analysis and Design, [chapter 4: Analysis: Four Levels for Validation](https://doi.org/10.1201/b17511-4) &nbsp;  [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)
 * Pandey et al., (2015) [How deceptive are deceptive visualizations? An empirical analysis of common distortion techniques](https://doi.org/10.1145/2702123.2702608)
 * Alberto Cairo (2013) The Functional Art: An introduction to information graphics and visualization (Voices That Matter), chapter 1: Why Visualize: From Information to Wisdom [PDF](https://ptgmedia.pearsoncmg.com/images/9780321834737/samplepages/0321834739.pdf)
 
@@ -70,6 +76,7 @@ Design:
   * see also the [digital companion site](http://book.visualisingdata.com) 
 * Cairo, A. (2014) ‘Ethical Infographics’, IRE Journal, 37(2), pp. 25–27 [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_gale_ofa382013977)
 * Stephen A. Spiller, Nicholas Reinholtz, and Sam J. Maglio (2020) Judgments Based on Stocks and Flows: Different Presentations of the Same Data Can Lead to Opposing Inferences, Management Science, 66:5, 2213-2231  [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_proquest2124808759)
+* Berinato, Scott (2016), [Visualizations That Really Work](https://hbr.org/2016/06/visualizations-that-really-work), Harvard Business Review [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_gale_ofa453813355)
 
 <p>&nbsp;</p>
 
@@ -84,46 +91,11 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 
 # Tutorial
 
-<a name = "tutorial-fortyfive_ways"></a>
-### Tutorial 1-1a: 45 Ways (20min)
+<a name="tutorial-real-life"></a>
+### Tutorial 1-1: Examples of Data Visualisation in Real Life (15 mins)
 
-1. Activity 1 (3min)
-    * ***On your own***, using plain paper or a tablet, design as many different visualisations that you can think of to represent or communicate the two numbers provided.
-    * Upload your designs to your group's Teams tutorial channel.
-  
-1. Discussion 1 (5min)  
-    * ***Within your group***
-    * Count:
-        - unique designs
-        - common designs
-    * Discuss ideas/designs and reasoning behind them. Do you find common or diverging interpretation of the same design within your group?
-
-1. Activity 2 (3min)
-    * Based on additional context - meaning of numbers, repeat exercise ***as a group***.  
-  You may draw on the whiteboard or share another drawing app from any participant's computer. Please save your design and upload to the [tutorial workspace](https://bit.ly/tutorial1-1a_sfcdv_jun2000). Note &mdash; if using the whiteboard maximise your screen and take a screen grab.
-
-1. Discussion 2 (10-15min)
-    * ***In the main classroom***
-    * Discuss commonalities and variation between 2 sets of results (with and without context)
-        - Why did ideas change? Or not?
-    * What difference did working in groups make to your approach to design?
-    * Why, when and how do context and domain knowledge/expertise influence visualisation design?
-<p>&nbsp;</p>
-
-#### Additional resources
-
-1. Background & original exercise at: [45 Ways to Communicate Two Quantities](https://en.rockcontent.com/blog/45-ways-to-communicate-two-quantities)
-1. Use case &ndash; multi-perpective design ideas: [Context-Driven Activity Apps @Fathom](https://medium.com/fathominfo/context-driven-activity-apps-e4a150650bf9)
-<p>&nbsp;</p>
-
-back to [index](index#course_organisation)
-
-***
-
-<p>&nbsp;</p>
-
-<a name = "tutorial-vis_lies"></a>
-### Tutorial1-1b: Visualisation Lies (1 hour)
+<a name = "tutorial-vis-lies"></a>
+### Tutorial 1-2: Visualisation Lies (1 hour)
 
 1. Discussion 1 (~20min)
     * [Slides](https://bit.ly/tutorial1-1b)  
@@ -169,23 +141,9 @@ Upload your annotated, redesign sketches to the tutorial channel.
 <p>&nbsp;</p>
 
 
-<a name="reading"></a>  
-##### Reading list
-
-**Core:**  
-* Tamara Munzner (2014) Visualization Analysis and Design, [chapter 4: Analysis: Four Levels for Validation](https://doi.org/10.1201/b17511-4) &nbsp;  [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)
-
-**Further reading:**  
-* Berinato, Scott (2016), [Visualizations That Really Work](https://hbr.org/2016/06/visualizations-that-really-work), Harvard Business Review [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_gale_ofa453813355)
-
-<p>&nbsp;</p>
-
-***
-
-# Tutorial
-
-<a name="tutorial-project_brief"></a>  
-### Tutorial1-2a: (Formulating) visualisation brief
+<a name="tutorial-project-brief"></a>  
+### Tutorial 1-3: (Formulating) visualisation brief (45 mins)
+This tutorial forms the basis for [assignment 1](session-2.md#assignment), due May 29th.
 
  1. Activity 1 (10min)
      * ***On your own*** &ndash; think about
@@ -202,7 +160,7 @@ Upload your annotated, redesign sketches to the tutorial channel.
      - innovative ideas
      - volunteers to present their ideas OR use class example
 
- 1. Reflection exercise 1 (20min)
+ 1. Reflection exercise 1 (10min)
      * ***On your own (if you've sensitive data) or within your groups***
      - review your initial ideas
      - update your brief  
@@ -233,7 +191,6 @@ Upload your annotated, redesign sketches to the tutorial channel.
      * internal users, e.g., senior management, the wider organisation
      * external users, e.g., current and potential customers
      * the general public
-
      * ***user characteristics***
          - technical vs. non-technical
          - (varying degrees of) domain / task knowledge?
@@ -242,8 +199,8 @@ Upload your annotated, redesign sketches to the tutorial channel.
          - time-conscious or pressured?
 
  1. **Presentation format &amp; end use**
-   * e.g., as a report, presentation, other static or interactive visualisation
-   * context of use &ndash; within a specific sector / domain; influence of culture, knowledge
+    * e.g., as a report, presentation, other static or interactive visualisation
+    * context of use &ndash; within a specific sector / domain; influence of culture, knowledge
 
  1. **Data** 
      - size
@@ -285,65 +242,15 @@ Upload your annotated, redesign sketches to the tutorial channel.
  <!-- 2. [Art meets science &ndash; IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization) -->
  <p>&nbsp;</p>
 
- back to [index](index#course_organisation)
-
 ***
 
-<p>&nbsp;</p>
-
-<!-- <a name="tutorial-eda_1"></a>  
-### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis &ndash; Introduction (1 hour)
-
-* This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
-     - Please note that as is typical for EDA activity, the dataset is formatted based on the provider's defined format, structure and presentation styles. This means that it may not necessarily be formatted to suit any one tool's input requirements. A component of all EDA exercises is therefore to reformat and restructure data as required for your tool(s) of choice. 
-
-[RAWGraphs](https://rawgraphs.io)
-- [Sketch](https://www.sketch.com)
-- [D3.js](https://d3js.org)
+ back to [index](index#course-organisation)
 
 
-1. Discussion 1 (10 min)
-     * ***In the main classroom***
-     - introduction to different tools for visualising data  
-
-1. Activity 1 (15 mins)
-     * ***Individually***
-     - Using [RAWGaphs](https://rawgraphs.io) or HighCharts ([online](http://editor.highcharts.com/full.html) or [download with non-commercial license](https://www.highcharts.com/blog/download/)) and another tool of your choice<sup>[3](access-to-software")</sup>
-         - select an aspect of the data you want to explore
-             - where necessary reformat and/or restructure data for input
-         - create 2 different charts in each tool that communicate the insight you derived
-         - save your results as a snapshot and upload to your Teams tutorial channel
-
-1. Discussion 2 (5 min)
-     - ***In the main classroom***
-     - poll
-         - tools selected
-         - charts selected
-             * what influenced your choice?
-
-1. Reflection 1 (15 min)
-     * ***Within your groups***
-     - How effective are the visualizations you chose? Consider the following questions:
-     - What would need to be improved?
-         - based on your approach to generating the visualisation, e.g., colour scheme, chart type, layout, data elements
-
-     - What insights did you uncover?
-         - were these new or unexpected?
-         - did they confirm what you had already observed from the data or knew prior to the exercise?
-         - how confident are you in your findings? Why or why not?
-
-     - How effective are the tools you used?
-         - Which features and workflows worked well? Why?
-         - What challenges did you encounter? Why?
-         - How do your tool choices compare? e.g., intuitiveness for exploration, ability to communicate results, responsiveness
-
-1. Discussion (10 min)
-     - ***In the main classroom***
-     - 1 per group &ndash; share insights derived and how these were reinforced or further questioned as a result of the group reflection (on the tools and results obtained)
- <p>&nbsp;</p> -->
 
 
-#### Data &ndash; National Records Scotland's 2019 population estimates
+
+<!-- #### Data &ndash; National Records Scotland's 2019 population estimates
 
 1. <a name = "ref-nrs-2019pop_estimates"></a> [NRS population data 2019 mid year estimate](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019)
 1. <a name = "ref-nrs-2019time_series"></a> [Population Estimates Time Series Data](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data)
@@ -351,7 +258,7 @@ Upload your annotated, redesign sketches to the tutorial channel.
 <a name = "access-to-software"></a>
 #### Links to Software 
 * [University software services](https://www.ed.ac.uk/information-services/computing/desktop-personal/software)
-* [vistools.net](https://vistools.net)
+* [vistools.net](https://vistools.net) -->
 
 <!-- 
 * Tutorial supplement &ndash; access via [Teams](https://teams.microsoft.com/_#/school/files/General?threadId=19%3A0a2759c1c77f491fb9efb01ad14cb60a%40thread.tacv2&ctx=channel&context=Additional%2520Resources&rootfolder=%252Fsites%252FDataVis4Professionals451%252FShared%2520Documents%252FGeneral%252FAdditional%2520Resources)
@@ -359,7 +266,7 @@ Upload your annotated, redesign sketches to the tutorial channel.
  or [SharePoint](https://uoe.sharepoint.com/sites/DataVis4Professionals/Shared%20Documents/General/Additional%20Resources) 
  -->
  
- <p>&nbsp;</p>
+ <!-- <p>&nbsp;</p>
 
 
 #### Additional Resources  
@@ -367,19 +274,12 @@ Upload your annotated, redesign sketches to the tutorial channel.
 1. [*Visual+interactive data group's* tool list](https://visualinteractivedata.github.io/res-tools.html)
 2. [*Interactive Things Studio's* visualisation resource](https://datavisualization.ch)
 3. [*Visualising Data's* tool list](https://www.visualisingdata.com/resources)
-<p>&nbsp;</p>
-
+<p>&nbsp;</p> -->
+<!-- 
 ***
-
-<p>&nbsp;</p>
-
-# Assignment
-
-Complete the exercise in <a href="#tutorial-project_brief">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
-Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from 18:00 on 8th May. 
       
 <p>&nbsp;</p>
 
  ***
 
- back to [index](index#course_organisation)
+ back to [index](index#course-organisation) -->

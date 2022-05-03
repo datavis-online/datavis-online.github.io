@@ -1,4 +1,4 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
 
 # Week 4: Visualization Techniques I
@@ -12,7 +12,7 @@ This session is split into a brief introductory lecture:
 
 * Data Types
 
-... and into three lectures out of which you chose one. While you may watch all three, you must choose the set most relevant to you as the option course you wish to be graded on. You must then submit only one of the three quizzes, that matching the lecture set you choose. 
+... and into three lectures out of which you choose at least one. You may of course watch all three. Each lecture set comes with an associated quiz.
 
 * Basic Charts
 * Multidimensional data
@@ -23,7 +23,7 @@ This session is split into a brief introductory lecture:
 
 # Lecture 
 
-## Manadatory introduction
+## Mandatory introduction
 * [Lecture slides: Data Types](files/4-Data-Types.pdf)  
 * [Lecture video: Data Types (7:21)](https://drive.google.com/file/d/1zbY69F9pDo_lGhTtHArZyWbnSbtwZAuG/view?usp=sharing)
 
@@ -109,72 +109,15 @@ Select one of the three quizzes below to complete:
 
 ***
 
-<a name = "tutorial-eda-project-data"></a>
-# Tutorial: EDA &ndash; Project Data
+<a name = "tutorial-tools1"></a>
+# Tutorial: Tool Tutorial I
 
-1. Discussion 1 (10 min)
-    * ***In the main classroom***
-    * Reflect on your [first EDA tutorial](session-1-2#tutorial-eda_1)
-    * What did you learn from using:
-        - different analytical techniques
-        - preparing your data
-    - What questions did you ask?
-    - What paths did you follow and why?
-    - Deriving insight ... during the exercise, and from your own project data ...
-        - what initial assumptions did you confirm or refute?
-        - what new did you discover about your data?
+Two tutorials this week will be held simultaneously. Pick one of the tool tutorials to attend:
+<p>&nbsp;</p>
+Tool1/link
+<p>&nbsp;</p>
+Tool2/link
 
-1. Activity 1 (40 min) 
-
-   __Data preparation tutorial__
-      * __Note: this exercise uses data from open data sources__
-    <!--  * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data-->
-    <br />
-    
-    * ***In the main classroom***
-    * Using the open data and also guidelines from the  [first EDA tutorial](session-1-2#tutorial-eda_1)
-        - reformat the data as required for your tool of choice
-        - generate simple statistical and visual summaries for each dataset
-    * Q&A (10min)  
-
-1. Activity 2 (45 min)
-    * ***On your own*** (even if working on a group project)
-  
-    * __Note: this is an exercise in exploring your data, not your design__
-        - what you find in the data __will however influence__ your design
-        - you will need to explore your raw data  
-            AND transformations of the data  
-            AND the results of different kinds of analysis
-        - no set way to do this, there are guidelines that help you _follow your nose_
-        - you may find you need to look for more or new data, and/or perform more cleaning on your original dataset
-    * Remember this is an ___iterative exercise___
-        - you may start with fixed ideas or questions OR  
-              a vague idea of what you're looking for OR  
-              gut based on experience and implicit knowledge
-        - expect to find more questions to your initial question(s)
-        - expect to find answers that contradict your initial assumptions
-        - it is not unusual to throw away some of your original questions and formulate new ones
-    * Remember to ___challenge your initial ideas and solutions___
-    * Experiment with multiple perspectives
-        - start with basic statistical analysis (if you have numerical data) and other overviews (any type of data)
-            - visualise your original dataset and results of analysis
-        - do you have any initial hypotheses?
-            - these can be derived from your ___big question___
-            - hypotheses may be based on knowledge of your domain and/or data content
-        - try out different visualisation techniques; different perspectives typically expose different aspects of your data
-        - alter settings for the same technique, e.g., different bins for a histogram may reveal different patterns
-  
-  
-1. Discussion 2 (15 min)
-    * ***In the main classroom***
-    * Reflect on:
-      - lessons learnt
-      - challenges encountered
-
-    * Informal exercise (no resubmission required at this stage) &ndash; update your visualisation brief and design
-    * Optional exercise &ndash; provide a review for the tool(s) you used in the [VisBrowser](https://vistools.net)
-        - please specify that the tool was being used for EDA and comment on usability and utility for this purpose
-        - in your review describe briefly your input data type, size and complexity
         
 <p>&nbsp;</p>
 
@@ -184,10 +127,16 @@ Select one of the three quizzes below to complete:
 
 # Assignment
 
-Please update your project brief and design based on what you have learnt to this point. There is no formal hand-in for this week; you will include your update as part of a project journal with your final project.
+Review the [sketching tutorial](session-2.md#tutorial-2-2) undertaken in Week 2.
+
+Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).
+
+Submit a copy of your design to [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-editor/a7eefb4f-0f01-40da-9b07-98864207f5dd?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist); the submission link will be available from noon on the 6th June.
 
 <p>&nbsp;</p>
 
-back to [course content](index#course_organisation)
+***
+
+back to [course content](index#course-organisation)
 
 

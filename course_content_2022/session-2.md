@@ -1,9 +1,9 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
 
 # Week 2: Visualization Design
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
+[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) | [Assignment](#assignment)
 <p><br /></p>
 
 
@@ -73,9 +73,44 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b
 
 ***
 
+# Tutorial
+
+
+<a name = "tutorial-fortyfive_ways"></a>
+### Tutorial 2-1: 45 Ways (20min)
+
+1. Activity 1 (3min)
+    * ***On your own***, using plain paper or a tablet, design as many different visualisations that you can think of to represent or communicate the two numbers provided.
+    * Upload your designs to your group's Teams tutorial channel.
+  
+1. Discussion 1 (5min)  
+    * ***Within your group***
+    * Count:
+        - unique designs
+        - common designs
+    * Discuss ideas/designs and reasoning behind them. Do you find common or diverging interpretation of the same design within your group?
+
+1. Activity 2 (3min)
+    * Based on additional context - meaning of numbers, repeat exercise ***as a group***.  
+  You may draw on the whiteboard or share another drawing app from any participant's computer. Please save your design and upload to the [tutorial workspace](https://bit.ly/tutorial1-1a_sfcdv_jun2000). Note &mdash; if using the whiteboard maximise your screen and take a screen grab.
+
+1. Discussion 2 (10-15min)
+    * ***In the main classroom***
+    * Discuss commonalities and variation between 2 sets of results (with and without context)
+        - Why did ideas change? Or not?
+    * What difference did working in groups make to your approach to design?
+    * Why, when and how do context and domain knowledge/expertise influence visualisation design?
+<p>&nbsp;</p>
+
+#### Additional resources
+
+1. Background & original exercise at: [45 Ways to Communicate Two Quantities](https://en.rockcontent.com/blog/45-ways-to-communicate-two-quantities)
+1. Use case &ndash; multi-perpective design ideas: [Context-Driven Activity Apps @Fathom](https://medium.com/fathominfo/context-driven-activity-apps-e4a150650bf9)
+<p>&nbsp;</p>
+
 
 <a name = "tutorial-design-sketching"></a>
-# Tutorial: Design (Sketching)
+### Tutorial 2-2: Sketching (1h40mins)
 
 Tutorial introduction [video on sketching](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing) and [slides](https://docs.google.com/presentation/d/1PWUgxK7QhJ1C8ep91Sgu6NmWdAaBiY_N0t8apQ4MU2s/edit?usp=sharing).
 
@@ -188,11 +223,9 @@ Giorgia Lupi (2015) [Sketching with Data Opens the Mind's Eye, National Geograph
 
 # Assignment
 
-Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).
-
-Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from noon on the 15th of May. 
+Complete the exercise in [tutorial 1-2](session-1.md#tutorial-1-2-formulating-visualisation-brief). Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the [guidelines for defining a brief](session-1#general-guidelines-for-defining-brief)<br/>
+Submit a copy of your brief to [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-editor/e0c226ed-ef59-4497-b627-c7799d1cfe0c?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist) by May 29th.
       
-
 <p>&nbsp;</p>
 
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)

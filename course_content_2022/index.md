@@ -3,12 +3,12 @@
 
 This page contains links to 
 * resouces, 
-* the [course content](#course_organisation) for the individual weeks as well as, 
+* the [course content](#course-organisation) for the individual weeks as well as, 
 * the [schedule](#timetable). 
 
 ## What Am I Supposed To Do During a Week? 
 
-Each week has a [topic](#course_organisation). All of that written below is optional, and serves as a guide to planning your work:
+Each week has a [topic](#course-organisation). All of that written below is optional, and serves as a guide to planning your work:
 
 * watch the video lectures (with accompanying slides) (~1h)
 * browse any recommended reading material (~1h)
@@ -57,8 +57,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
 
 ***
 
-
-<a name = "course_organisation"></a>
+<a name = "course-organisation"></a>
 ## Course Organisation
 
 <table>
@@ -70,23 +69,25 @@ Please remember that while **strongly encouraged**, participation in tutorials a
   </tr>
 
   <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 1 &ndash; May 16</h4></th>
+    <th colspan = "4"><h4>Week 0 &ndash; May 9</h4></th>
   </tr>
   <tr style = "vertical-align:top;">
    <td><a href="session-0">0</a></td>
-   <td>Course introduction</td>
+   <td><a href="session-0">Course introduction</a></td>
    <td>-</td>
    <td>-</td>
+  <tr style = "vertical-align:top;">
+    <th colspan = "4"><h4>Week 1 &ndash; May 16</h4></th>
+  </tr>
   <tr style = "vertical-align:top;">
    <td><a href="session-1">1</a></td>
    <td>
       <a href="session-1#lecture">Datavis introduction<br> &amp; Basic concepts</a>
     </td>
     <td>
-      <a href="session-1#tutorial-fortyfive_ways">45 ways</a><br/>
+      <a href="session-1#tutorial-real-life">Datavis in Real Life</a><br/>
       <a href="session-1#tutorial-vis_lies">Visualisation lies</a><br/>
       <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
-      <!-- <a href="session-1#tutorial-basic_charts">Basic charts</a> -->
     </td>
     <td>-</td>
   </tr>
@@ -110,6 +111,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
    <td>
       <a href="session-2#lecture">Visualization Design</a><br/>
     </td><td>
+      <a href="session-2#tutorial-fortyfive-ways">45 ways</a><br/>
       <a href="session-2#tutorial-design-sketching">Design (Sketching)</a><br/>
     </td><td>
       <a href="session-2#assignment">Project brief</a>
@@ -124,6 +126,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
        <a href="session-3#lecture">Visualization Tools</a><br/>
     </td><td>
       <a href="session-3#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
+      <a href="session-3#tutorial-tools-discussion">Visualisation tools discussion</a><br/>
     </td><td>
      -
     </td>
@@ -136,7 +139,8 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td style = "vertical-align:top;">
       <a href="session-4#lecture">Visualization Techniques I/II</a><br/>
     </td><td>
-      <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/>
+      <!-- <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/> -->
+      Tool tutorials
     </td><td>
       Sketches
     </td>
@@ -149,7 +153,8 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td style = "vertical-align:top;">
       <a href="session-5#lecture">Visualization Techniques II/II</a><br/>
     </td><td>
-      <a href="session-5#tutorial-critical-analysis">Critical analysis &amp; reflection</a>
+      <!-- <a href="session-5#tutorial-critical-analysis">Critical analysis &amp; reflection</a> -->
+      Tool tutorials
     </td><td>
       -
     </td>
@@ -231,13 +236,12 @@ Please remember that while **strongly encouraged**, participation in tutorials a
 <a name = "timetable"></a>
 ## Timetable
 
-* The same tutorial runs twice a week to have smaller tutorial groups. The groups are A and B in the schedule. At the beginning of the course, you should choose which group you are in. 
-* A is running in the mornings, 
-* B is running in the evenings (+ Saturday only in week 1) 
-* __Please note there is a welcome session during [week 1](../images/timetable_week1_only.png):__
-  * T-1: Mon 10-12:00 (BST)
+* __Please note there is a welcome session in week 0 (before the course starts!) [Wednesday 11th May, 5pm (BST) on Zoom](https://ed-ac-uk.zoom.us/j/86258573125) (pwd sent to you in welcome email)__. If you can't make this session, don't worry, it will be recorded and made available on [Teams](https://bit.ly/dv4p2022).
+* Weekly tutorial times will be decided before Week 1. Express preference [here](https://www.when2meet.com/?15496393-25Irc).
+
+  <!-- * T-1: Mon 10-12:00 (BST) -->
   <!-- * T-2: Sat 09:30-11:30 (BST) -->
-* There are 2 Lecture Q&As per week. They are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As. The content of these sessions depends on the participants asking questions. 
+<!-- * There are 2 Lecture Q&As per week. They are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As. The content of these sessions depends on the participants asking questions.  -->
 * __Note all times are BST__
 
 <!-- 
@@ -245,8 +249,8 @@ Please remember that while **strongly encouraged**, participation in tutorials a
 ### Week 1
 <img src = "../images/timetable_week1_only.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" / -->
 
-### Weeks 2&ndash;10
-<img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
+<!-- ### Weeks 2&ndash;10
+<img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" /> -->
 
 <br />
 

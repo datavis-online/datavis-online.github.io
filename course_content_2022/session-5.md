@@ -1,4 +1,4 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
 
 # Week 5: Visualization Techniques II
@@ -8,7 +8,7 @@ back to [course content](index#course_organisation)
 
 #### Session topics
 
-This session is split again (like session 3-1) into three lectures out of which you should choose one. While you may watch all three, you must choose the set most relevant to you as the option course you wish to be graded on. You must then submit only one of the three quizzes, that matching the lecture set you choose. 
+This session is split again (like session 4) into three lectures out of which you would typically choose one. Again, you may watch all three. You should only attempt the quizzes that match the lecture sets you choose. 
 
 * Networks
 * Trees + Hierarchies
@@ -19,7 +19,7 @@ This session is split again (like session 3-1) into three lectures out of which 
 
 # Lecture
 
-## Chose one of the following topics
+## Chose (at least) one of the following topics
 
 ### 1. Networks
 * [Lecture slides: Networks](files/5-Networks.pdf)  
@@ -74,82 +74,17 @@ Select one of the three quizzes below to complete:
 
 <p>&nbsp;</p>
 
+<a name = "tutorial-tools2"></a>
+# Tutorial: Tool Tutorial II
 
-<a name = "tutorial-critical-analysis"></a>
-# Tutorial: Critical Analysis &amp; Reflection
-
-1. Activity 1 (35 min)
-    * ***On your own*** (even if working on a group project)
-    - Reflect on:
-        - your brief and design &ndash; what is your ___big question___?
-        - the results of EDA on your data and the impact it had on your data preparation and design
-   
-   __General Guidelines__  
-   1. Critically evaluate your brief and design, looking at potential for visual communication
-        - review the guidelines you followed when formulating your brief and creating your (initial) design
-    
-   2. Identify key elements of your design
-        - what would constitute an MVP (minimum viable product)?
-        - what can you practically achieve within the constraints of this course?
-        - what can you categorise as the next phase of the project (future work)?
-    
-   3. Critically evaluate your goals in light of:
-        - your skill/capability and other resources you have access to
-            - what you have learnt to this point
-            - which advanced topics you plan to study
-            - additional skills you wish to learn
-        - any other recognised constraints, including
-            - time limits (the course has 5.5 weeks remaining + 1 week to complete project)
-            - data needed to achieve your overall goal
-      
-    * Create a check list with 3-5 items to guide evaluation of your brief and design
-        - draw from the lecture and tutorial material
-        - draw from your requirements and goals &ndash; this will require you to think from your target users' viewpoint
-    
-  
-1. Discussion 1 (60 min)
-    * ***Within your group*** (2 * 15 min)
-    1. Exchange design briefs, along with your evaluation checklists  
-        Each must be evaluated by two others in your group
-        - Provide __constructive__, albeit __critical__ feedback. This is an opportunity for peer learning, to gain from others' experience and perspectives.
-        - Remember to provide feedback within context; seek more information about intended use and users if not obvious
-        - Identify
-            - what works well
-            - what is unclear &ndash; seek clarification, ask questions
-            - what can be improved &ndash; you need not know what to suggest to improve the current state, but illustrate why some aspect may not deliver as intended. This helps to figure out how to. 
-        - Summarise your overall impressions
-          - first impressions
-          - what does this design communicate? How well does it match its brief?
-        
-    1. Individually &ndash; review feedback for your design (10 min)
-        - you may obtain both overlapping and conflicting feedback
-        - remember your evaluators have different perspectives. Differences in feedback are the norm and good to inspire new approaches. 
-      
-    2. Round table &ndash; discuss, at a more general level
-        - this is an opportunity for you to ask more questions, seek clarification on feedback obtained, provide clarification on feedback given
-        - identify where and how different techniques work to inform, help to perform tasks and answer your question(s)
-
-    __NOTE: remember not to share sensitive data, especially when making annotations - your design need not refer to specific data. Consult with a tutor if this presents an issue for obtaining peer feedback.__
-    
-
-1. Activity 2 (15 min)
-    * ***On your own  (or group if in group project)***
-    * Review feedback and update brief and design as desired
-    
-    
-1. Discussion 2 (10 min)
-   * ___In the main classroom___
-   * Reflect on the feedback you both gave and received
-   * What changes do you anticipate going forward?
-   * What do you expect to keep from your initial brief?
-   * In one line, what is your ___big question___?
-   
+Two tutorials this week will be held simultaneously. Pick one of the tool tutorials to attend:
 <p>&nbsp;</p>
-
-# Assignment
-
-Please update your project brief and design based on what you have learnt to this point. There is no formal hand-in for this week; you will include your update as part of a project journal with your final project.
+Tool1/link
+<p>&nbsp;</p>
+Tool2/link
 
 <p>&nbsp;</p>
 
-back to [course content](index#course_organisation)
+***
+
+back to [course content](index#course-organisation)

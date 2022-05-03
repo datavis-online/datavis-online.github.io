@@ -59,7 +59,7 @@ Available by end of week
 <p>&nbsp;</p>
 
 <a name = "design-data-comics"></a>
-# Tutorial: Data Comics Workshop
+# Tutorial: Storyboarding - Data Comics Workshop
 
 Guest speaker: __Zezhong Wang__
 

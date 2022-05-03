@@ -1,4 +1,4 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
 
 # Week 3: Visualization Tools
@@ -52,7 +52,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 # Quiz
 
-Available via [Teams](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1621422041110?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1621422041110&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1621422041110) &ndash; solutions will be discussed during the Q&As.
+Available via [Teams]() &ndash; solutions will be discussed during the Q&As.
 <p>&nbsp;</p>
 
 ***
@@ -118,7 +118,7 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
 
 <p>&nbsp;</p>
 
-# Assignment
+<!-- # Assignment
 
 Select from existing or add a new tool to the <a href="https://vistools.net">VisBrowser</a>. Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.
 
@@ -131,8 +131,8 @@ Select from existing or add a new tool to the <a href="https://vistools.net">Vis
 * Submit a copy of your updated brief and your annotated tool matrix to Learn
 * If you submitted a review to the tool browser include a copy with your assignment. Alternatively, submit as part of your assignment a brief review as you would submit online.
 
-The submission link will be available from 12:00, 29th May. The [assessments page](assessment.md) provides more detail on submission requirements.     
+The submission link will be available from 12:00, 29th May. The [assessments page](assessment.md) provides more detail on submission requirements.      -->
 
 <p>&nbsp;</p>
 
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)

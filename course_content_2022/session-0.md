@@ -1,10 +1,10 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
 
 # Week 0: Course Introduction
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) 
-<p><br /></p>
+<!-- [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) 
+<p><br /></p> -->
 
 #### Session topics
 
@@ -15,26 +15,7 @@ back to [course content](index#course_organisation)
     * Assignments
 
 
-<!-- * Forms of visualization 
-    * Infographics
-    * Interactives
-    * Physicalizations
-    * Comics 
-    * Storytelling
-    * Scientific visualization 
-* Exploration vs. Explanation
-* Anscombe's Quartett
-* Visualization lies
-* Visualization literacy
-    * Bertin's tasks: Low-level/high-level 
-* Defining visualization
-    * Formal definition
-<p>&nbsp;</p> -->
-
-
-
-
-back to [index](index#course_organisation)
+back to [index](index#course-organisation)
 
 ***
 
@@ -74,4 +55,4 @@ back to [index](index#course_organisation)
 
 ***
 
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)

@@ -1,7 +1,6 @@
-back to [course content](index#course_organisation)
+back to [course content](index#course-organisation)
 
-
-# Week 10: Interaction
+# Week 8: Project Finish
 
 [Lecture](#lecture) | [Tutorial](#project-implementation) 
 
@@ -13,19 +12,19 @@ back to [course content](index#course_organisation)
 <p>&nbsp;</p -->
 
 
-# Lecture 
+<!-- # Lecture  -->
 
-### Slides
+<!-- ### Slides -->
 
-* [Interaction.pdf](files/10-Interaction.pdf)  
+<!-- * [Interaction.pdf](files/10-Interaction.pdf)   -->
 
 
-#### Video lectures
+<!-- #### Video lectures -->
 
-* [Datavis-10: Interaction-1 Interaction for Visualization (6:55 min)](https://drive.google.com/file/d/1FPK9LeO_Y0E0ylSTTOT4fi7_G6pWEsud/view?usp=sharing)
+<!-- * [Datavis-10: Interaction-1 Interaction for Visualization (6:55 min)](https://drive.google.com/file/d/1FPK9LeO_Y0E0ylSTTOT4fi7_G6pWEsud/view?usp=sharing)
 * [Datavis-10: Interaction-2 Interaction Techniques (23:07min)](https://drive.google.com/file/d/1SLxhCUJdEuw7SF_CgB_NrQYvhaN6i-Db/view?usp=sharing)
 * [Datavis-10: Interaction-1 Guidelines for Interaction (3:50min)](https://drive.google.com/file/d/1tDdN8wBcESFvAB4sYHQMkGrASXnsRBHq/view?usp=sharing)
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
   
 <!-- a name = "reading"></a>
@@ -50,5 +49,5 @@ back to [course content](index#course_organisation)
 
  ***
 
- back to [index](index#course_organisation)
+ back to [index](index#course-organisation)
 

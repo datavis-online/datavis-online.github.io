@@ -4,8 +4,8 @@ This course is accredited; on successful completion you will receive a certifica
 
 It therefore has a formal assessment component comprising
   * mini quizzes attached to key lecture topics (optional)
-  * brief reflection exercises linked to the tutorials  <!-- [reflection exercises](reflection_exercises) linked to the tutorials -->  
-  * a final project that enables you to answer, using your data visualisation choice, the challenge you define.
+  * a __project brief__ and a __sketching__ exercise linked to the tutorials (optional)
+  * a final project that enables you to answer, using your data visualisation choice, the challenge you define
 
 Your overall grade will be one of __Pass__ / __Fail__ / __Incomplete__
 
@@ -20,7 +20,7 @@ back to main [schedule](index.md)
 
 ## General Submission Guidelines
 
-1. Formal assessment must be submitted through Teams. Quizzes and assignments must be labelled using your student ID only (s followed by 7 numbers). If you have not been assigned a student ID please request a unique identifier from the course organisers to use instead. Please ensure you do not include any personally identifiable information on submissions as all work is marked anonymously. 
+1. Formal assessment must be submitted through [Teams](https://bit.ly/dv4p2022). Quizzes and assignments must be labelled using your student ID only (s followed by 7 numbers). If you have not been assigned a student ID please request a unique identifier from the course organisers to use instead. Please ensure you do not include any personally identifiable information on submissions as all work is marked anonymously. 
 1. In-session exercises should be labelled with your student ID  (individual)  or group number, date and exercise number, and uploaded to the Teams channel for the tutorial in question. 
 
 ### Quizzes
@@ -40,7 +40,7 @@ While we recommend completing quizzes on a weekly basis, you may choose to attem
 
 <a name = "guidelines_reflection_exercises"></a>
 ### Assignments / Reflection exercises
- * Assignments are linked to tutorial sessions. Both tutorial sessions and the first two assignments are **optional** but **highly recommended**. Guidelines for completing the exercises are detailed in the tutorial scripts, with summaries provided in the <a href="summaries_reflection_exercises">table</a> below. 
+ * Assignments are linked to tutorial sessions. Tutorial sessions and the first two assignments are **optional** but **highly recommended**. Guidelines for completing the exercises are detailed in the tutorial scripts, with summaries provided in the <a href="summaries_reflection_exercises">table</a> below. 
 
  * Submissions must contain ~200 and no more than 500 words, and fit on a single side of A4 paper
    * keep descriptions brief and to the point
@@ -93,7 +93,7 @@ back to main [schedule](index.md)
     <td><b><i>Sun, May 29, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <a href="session-1#tutorial-project_brief">tutorial 1</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-1#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
+     Complete the exercise in [tutorial 1](session-1.md#tutorial1-2a-formulating-visualisation-brief). Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-1#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
       Submit a copy of your brief to <a href="https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-editor/e0c226ed-ef59-4497-b627-c7799d1cfe0c?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist">Teams</a>.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
