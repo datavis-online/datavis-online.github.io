@@ -187,44 +187,13 @@ Please remember that while **strongly encouraged**, participation in tutorials a
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 8 &ndash; Jul 4</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-8">8</td>
+    <td><a href="session-8">8</a></td>
     <td style = "vertical-align:top;">
       Project 1-on-1s
     </td>
     <td>-</td>
     <td>Final Project</td>
   </tr>
-  
-  <!-- <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 9 &ndash; Jun 28</h4></th>
-  </tr><tr style = "vertical-align:top;">
-    <td><a href="session-9">9</a></td>
-    <td style = "vertical-align:top;">
-      <a href="session-9#lecture">Evaluation</a>
-    </td><td>
-      <a href="session-9#tutorial-usability-evaluation">Usability evaluation</a>
-    </td><td>
-      <a href="session-9#assignment">Project evaluation plan</a>
-    </td>
-  </tr>
-  
-  <tr style = "vertical-align:top;">
-    <th colspan = "4"><h4>Week 10 &ndash; Jul 05</h4></th>
-  </tr><tr style = "vertical-align:top;text-align: enter;">
-    <td colspan = "4">Guest speaker &mdash; Tues, 6th Jul, 17:00-18:00<br />
-      <i>Extra dimensional "XR" data visualisation.</i>, Laura Smith, CEO, Slanted Theory
-    </td>
-  </tr><tr style = "vertical-align:top;">
-    <td colspan = "4">&nbsp;</td>
-  </tr><tr style = "vertical-align:top;">
-    <td><a href="session-10">10</a></td>
-    <td style = "vertical-align:top;">
-     <a href="session-10#lecture">Interaction</a><br/>
-    </td><td>
-      Implementation &ndash; project
-    </td><td>
-    </td>
-  </tr> -->
   
 </table>
 
