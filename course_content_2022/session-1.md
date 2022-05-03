@@ -94,12 +94,17 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 <a name="tutorial-real-life"></a>
 ### Tutorial 1-1: Examples of Data Visualisation in Real Life (15 mins)
 
+
+1. Have a look at the [exercise brief](https://docs.google.com/document/d/16Szi5cGLaO91nkW4lcM6BHvCixWJfAjw356I9CIb0is) and [padlet](https://padlet.com/iaincarson1/7ee36dygv63pqfzg).
+1. If you haven't already, add your images to the padlet!
+1. Follow along with the discussion as per the [slides](files/tutorials/t1-1-challenge.pdf)
+
+
 <a name = "tutorial-vis-lies"></a>
 ### Tutorial 1-2: Visualisation Lies (1 hour)
 
 1. Discussion 1 (~20min)
-    * [Slides](https://bit.ly/tutorial1-1b)  
-    
+    * [Slides](files/tutorials/t1-2-vislies.pdf)  
     * Communicating through distortion vs. Visualisation lies  
       e.g., [tube](http://content.tfl.gov.uk/standard-tube-map.pdf) & subway maps vs [overground walking maps](
 https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20Connections%20Map.pdf)  
@@ -119,7 +124,6 @@ https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20
     * Is it possible to communicate the message intended without distorting data content or otherwise actively misleading?
         - if so, how would you redesign each to communicate the story intended or actual data content?
     
-Upload your annotated, redesign sketches to the tutorial channel.
 <p>&nbsp;</p>
 
 
