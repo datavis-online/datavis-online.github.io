@@ -34,6 +34,17 @@ With an aim to build skills that allow participants to directly apply their lear
 
 We encourage **BYOD---Bring and work on Your Own Data** projects (though we unfortunately cannot formally sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
 
+There are many other excellent sources for data available online, here are some of our favourites:
+
+* [Data is Plural](https://www.data-is-plural.com/) - also available via a [spreadsheet showing archived posts](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit?usp=sharing)
+* [Data sources by OECD](https://data.oecd.org/)
+* [UNESCO statistics](http://uis.unesco.org/en/home)
+* [DATA.GOV.UK](https://data.gov.uk/)
+* [EU open data portal](http://data.europa.eu/euodp/en/data/)
+* [NHS Health & Social Care](http://content.digital.nhs.uk/home)
+* [538: Politics, Economics and Sports Blogging](http://fivethirtyeight.com/)
+* [Kaggle](https://www.kaggle.com/datasets)
+
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
 2. **Structure:** Break down the project with consideration for its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.

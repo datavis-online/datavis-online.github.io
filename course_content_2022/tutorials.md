@@ -22,7 +22,7 @@ Please note the following guidelines, which take into account feedback from inte
 <br />
 
 ### Virtual classroom &amp; resources
-* We will use the [MS Teams](http://bit.ly/DataVis4ProfTeams2021) environment for all interactive sessions. You will receive by e-mail (to your university address) an access link. Tools included:
+* We will use the [MS Teams](https://bit.ly/dv4p2022) environment for all interactive sessions. You will receive by e-mail (to your university address) an access link. Tools included:
     - whiteboard 
     - slideshow
     - file sharing
