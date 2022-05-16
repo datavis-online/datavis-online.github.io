@@ -41,8 +41,8 @@ Working With Visualizations:
 * [Working with Visualizations](files/1.2-working_with_visualizations.pdf)
 
 ### Video Lectures
-* [Introduction to Data Visualization](https://youtube.com/playlist?list=PLk8hZQByYcuBxZEKifBv4fD6MIglh8U3C)
-* [Working with Visualizations](https://youtube.com/playlist?list=PLk8hZQByYcuAHy9426Jbn7pcTftFNkLR7)
+* [1.1 - Introduction to Data Visualization](https://youtube.com/playlist?list=PLk8hZQByYcuBxZEKifBv4fD6MIglh8U3C)
+* [1.2 - Working with Visualizations](https://youtube.com/playlist?list=PLk8hZQByYcuAHy9426Jbn7pcTftFNkLR7)
 <br>
 
 
