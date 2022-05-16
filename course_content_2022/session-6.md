@@ -52,7 +52,7 @@ Lecture topics:
 
 # Quiz
 
-Available by end of week
+Quizzes are published at the start of each week on Teams.
 
 <!-- [Quiz]() -->
 
