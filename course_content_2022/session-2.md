@@ -23,32 +23,17 @@ back to [course content](index#course-organisation)
 
 ### Slides
 * [Visualization_Design](files/2-Visualization-Design.pdf)  
-* [Sketching](files/2-Sketching.pdf)
-* [Color (extra material)](files/2-Color-extra.pdf)  
-
+* [Color (extra)](files/2-Color.pdf)  
+* [Sketching (extra)](files/2-Sketching.pdf)
 
 ### Videos
-* [2 - Visualization Design]()
-* [Datavis-2-1: Visualization Design](https://drive.google.com/file/d/1zdz7Qv3-sT9HE1HCgIRTpDGxODn_zrXf/view?usp=sharing)
-* [Datavis-2-2: Visual Perception (8:25)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)  
-* [Datavis-2-3: Gestalt Laws (12:24)](https://drive.google.com/file/d/1LU_WA46zNphqz0yjkJn4Jg-6im78fnWE/view?usp=sharing) 
-* [Datavis-2-4: Data Types (12:15)](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
-* [Datavis-2-5: Visual Variables (10:19)](https://drive.google.com/file/d/1dVERP7EeJEU-lgWtOfCleUbLHWNsYhxr/view?usp=sharing) 
-* [Datavis-2-6: Characteristics of Visual Variables (16:10)](https://drive.google.com/file/d/14txxIAj5dB35UZv9QkkPuylznPSMHCEf/view?usp=sharing)
-* [Datavis-2-7: Visualization Guidelines (21:32)](https://drive.google.com/file/d/1Yl51wBotr75oWXdyxt3YS-kzA_zh80cN/view?usp=sharing)
-* [Datavis-2-8: Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
+* [2 - Visualization Design](https://youtube.com/playlist?list=PLk8hZQByYcuC7Aq86Xg9DN1271hsJW266)
 
 ### Videos (Color - extra)
-* [Datavis-2-e1: Color for DataVis (15:51)](https://drive.google.com/file/d/1pCYG_9rxPkvQTir9MOihBcgtFMs6NhDN/view?usp=sharing)
-* [Datavis-2-e2: Sequential Scales (11:31)](https://drive.google.com/file/d/1v9Ad8QEdh1GNjdvvDxm94nEF5AGnp7Pa/view?usp=sharing)
-* [Datavis-2-e3: Diverging Scales (2:32)](https://drive.google.com/file/d/1BgBNQeAHTghkTTJIdF2Q287GaGfnSUpi/view?usp=sharing)
-* [Datavis-2-e4: Categorical Scales (5:47)](https://drive.google.com/file/d/16bzJift_T4CTpppOLCIT-hIMlwpKqkEY/view?usp=sharing)
-* [Datavis-2-e5: Rainbow Color Maps (11:51)](https://drive.google.com/file/d/1ptX7fk93_e72EfOR2SbMsbEa1gDizqCl/view?usp=sharing)
-* [Datavis-2-e6: Color Blindness (6:27)](https://drive.google.com/file/d/1-j31-H48SsWm0PHJuNhpTvL8742qLi_I/view?usp=sharing)
-* [Datavis-2-e7: Further Applications in DataVis (4:19)](https://drive.google.com/file/d/1Tr_Rf_sca6D9oYSUYYT57-37EEB1yfAE/view?usp=sharing)
+* [2e - Color for DataVis](https://youtube.com/playlist?list=PLk8hZQByYcuCbpHCAWmjWyWP7BpTV7cCW)
 
 ### Videos (Sketching - extra)
-* [Datavis-2-e8: Sketching (12:11)](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing)
+* [2e - Sketching](https://youtu.be/zaWquoSD_NQ)
 
 
 <br />
@@ -72,7 +57,8 @@ back to [course content](index#course-organisation)
 
 
 # Quiz
-Available via [Teams](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1620746549505?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1620746549505&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1620746549505) &ndash; solutions will be discussed during the Q&As in week 3.
+Quizzes are published at the start of each week on Teams.
+<!-- Available via [Teams](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1620746549505?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1620746549505&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1620746549505) &ndash; solutions will be discussed during the Q&As in week 3. -->
 <p>&nbsp;</p>
 
 ***

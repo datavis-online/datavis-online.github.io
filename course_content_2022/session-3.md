@@ -29,6 +29,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 * [Visualization Tools](files/3-Visualisation-Tools.pdf)  
 
 ### Videos
+* [3 - Tools]()
 * [Datavis-3.1: Outline (1:13)](https://drive.google.com/file/d/1ZeEWgFDmN2TFDYsn5OIENVkbw0HxAEe6/view?usp=sharing)
 * [Datavis-3.2: Tool landscape (10:45)](https://drive.google.com/file/d/1U4fUA1NDb7Jt4JQcgmhb3bOTEgSRcwBP/view?usp=sharing)
 * [Datavis-3.3: Tools: Generic + Usage (8:51)](https://drive.google.com/file/d/10VE8bIbVkdN0omoZRLzo_qY3YqLNNaaN/view?usp=sharing)
@@ -51,8 +52,9 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 ***
 
 # Quiz
+Quizzes are published at the start of each week on Teams.
 
-Available via [Teams]() &ndash; solutions will be discussed during the Q&As.
+<!-- Available via [Teams]() &ndash; solutions will be discussed during the Q&As in Week 4. -->
 <p>&nbsp;</p>
 
 ***

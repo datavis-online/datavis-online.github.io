@@ -12,7 +12,9 @@ back to [course content](index#course-organisation)
 <p>&nbsp;</p -->
 
 
-<!-- # Lecture  -->
+# Lecture 
+
+There are no lectures this week - please work through your project in your own time.
 
 <!-- ### Slides -->
 

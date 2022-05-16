@@ -71,7 +71,7 @@ Working With Visualizations:
 
 
 # Quiz 
-Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1620231816411?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1620231816411&teamName=DataVis4Professionals&channelName=General&createdTime=1620231816411) &ndash; solutions will be discussed during the Q&As in week 2.
+Available via [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-review/c143c36e-3153-47d8-b8ff-b8d197fb11b7?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist) &ndash; solutions will be discussed during the Q&As in week 2.
 <p>&nbsp;</p>
 
 ***
