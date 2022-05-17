@@ -18,12 +18,20 @@ Lecture topics:
 * [Evaluation](files/9-Evaluation.pdf)  
 
 #### Video lectures
-* [Datavis-9: Evaluation-1 Intro (7:42min)](https://drive.google.com/file/d/1y56Oh0M_VqtjpqijU7CT92x58wUOrw6V/view?usp=sharing)
-* [Datavis-9: Evaluation-2 Heuristics and Guidelines (20:30min)](https://drive.google.com/file/d/1dpkF0vILbYYIAQjn9CAtMbmMSfFfiL41/view?usp=sharing)
-* [Datavis-9: Evaluation-3 Case Studies (2:26min)](https://drive.google.com/file/d/1oxc5ckWNZl0SkC3Tljtr0O88f1Gy1-pX/view?usp=sharing)
-* [Datavis-9: Evaluation-4 Subjective Feedback (5:47min)](https://drive.google.com/file/d/1OgkNRU5Onxi0BI-hc2kgvLOXkndsIed6/view?usp=sharing)
-* [Datavis-9: Evaluation-5 Objective Measurements (3:48min)](https://drive.google.com/file/d/1IUSsGVGB_QfEYkAf0vYsyAQ8nSASMDIk/view?usp=sharing)
-* [Datavis-9: Evaluation-6 Wrap up (2:30min)](https://drive.google.com/file/d/1kLQsBUOezs4Zq1WRvhdbfZqZ2Ul-QpUP/view?usp=sharing)
+* [Datavis-7: Evaluation-1 Intro (7:42min)](https://drive.google.com/file/d/1y56Oh0M_VqtjpqijU7CT92x58wUOrw6V/view?usp=sharing)
+* [Datavis-7: Evaluation-2 Heuristics and Guidelines (20:30min)](https://drive.google.com/file/d/1dpkF0vILbYYIAQjn9CAtMbmMSfFfiL41/view?usp=sharing)
+* [Datavis-7: Evaluation-3 Case Studies (2:26min)](https://drive.google.com/file/d/1oxc5ckWNZl0SkC3Tljtr0O88f1Gy1-pX/view?usp=sharing)
+* [Datavis-7: Evaluation-4 Subjective Feedback (5:47min)](https://drive.google.com/file/d/1OgkNRU5Onxi0BI-hc2kgvLOXkndsIed6/view?usp=sharing)
+* [Datavis-7: Evaluation-5 Objective Measurements (3:48min)](https://drive.google.com/file/d/1IUSsGVGB_QfEYkAf0vYsyAQ8nSASMDIk/view?usp=sharing)
+* [Datavis-7: Evaluation-6 Wrap up (2:30min)](https://drive.google.com/file/d/1kLQsBUOezs4Zq1WRvhdbfZqZ2Ul-QpUP/view?usp=sharing)
+
+<!-- Extra - Interaction
+* [Datavis-7e: Interaction-1 Interaction for Visualization (6:55 min)](https://drive.google.com/file/d/1FPK9LeO_Y0E0ylSTTOT4fi7_G6pWEsud/view?usp=sharing)
+* [Datavis-7e: Interaction-2 Interaction Techniques (23:07min)](https://drive.google.com/file/d/1SLxhCUJdEuw7SF_CgB_NrQYvhaN6i-Db/view?usp=sharing)
+* [Datavis-7e: Interaction-1 Guidelines for Interaction (3:50min)](https://drive.google.com/file/d/1tDdN8wBcESFvAB4sYHQMkGrASXnsRBHq/view?usp=sharing)
+<p>&nbsp;</p> -->
+
+
 
 <a name="reading"></a>  
 #### Reading list
