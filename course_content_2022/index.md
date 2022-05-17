@@ -91,7 +91,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td>
       <a href="session-1#tutorial-real-life">Datavis in Real Life</a><br/>
       <a href="session-1#tutorial-vis_lies">Visualisation lies</a><br/>
-      <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
+      <a href="session-1#tutorial-project-brief">Formulating data visualisation brief</a><br/>
     </td>
     <td>-</td>
   </tr>
