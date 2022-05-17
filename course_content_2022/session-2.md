@@ -66,7 +66,7 @@ Quizzes are published at the start of each week on Teams.
 # Tutorial
 
 
-<a name = "tutorial-fortyfive_ways"></a>
+<a name = "tutorial-fortyfive-ways"></a>
 ### Tutorial 2-1: 45 Ways (20min)
 
 1. Activity 1 (3min)
@@ -213,8 +213,8 @@ Giorgia Lupi (2015) [Sketching with Data Opens the Mind's Eye, National Geograph
 
 # Assignment
 
-Complete the exercise in [tutorial 1-2](session-1.md#tutorial-1-2-formulating-visualisation-brief). Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the [guidelines for defining a brief](session-1#general-guidelines-for-defining-brief)<br/>
-Submit a copy of your brief to [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-editor/e0c226ed-ef59-4497-b627-c7799d1cfe0c?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist) by May 29th.
+Complete the exercise in [tutorial 1-3](session-1.md#tutorial-project-brief). Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the [guidelines for defining a brief](session-1#general-guidelines-for-defining-brief)<br/>
+Submit a copy of your brief to [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-review/e0c226ed-ef59-4497-b627-c7799d1cfe0c?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist) by May 29th.
       
 <p>&nbsp;</p>
 

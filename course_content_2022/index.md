@@ -118,7 +118,6 @@ Please remember that while **strongly encouraged**, participation in tutorials a
        <a href="session-3#lecture">Visualization Tools</a><br/>
     </td><td>
       <a href="session-3#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
-      <a href="session-3#tutorial-tools-discussion">Visualisation tools discussion</a><br/>
     </td><td>
      -
     </td>
