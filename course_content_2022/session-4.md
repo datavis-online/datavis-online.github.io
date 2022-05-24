@@ -23,17 +23,15 @@ This session is split into a brief introductory lecture:
 
 # Lecture 
 
-## Mandatory introduction
+## Introduction (core)
 * [Lecture slides: Data Types](files/4-Data-Types.pdf)  
-* [Lecture video: Data Types (7:21)](https://drive.google.com/file/d/1zbY69F9pDo_lGhTtHArZyWbnSbtwZAuG/view?usp=sharing)
+* [Lecture video: Data Types](https://youtu.be/Rjy7Pq6hDCI)
 
 ## Chose one of the following topics
 
 ### 1. Basic Charts
 * [Lecture slides: Basic Charts](files/4-Basic-Charts.pdf)  
-* [Lecture video: Basic Charts-1 (13:06)](https://drive.google.com/file/d/1GY_lwnmeA0AvE_jv6uH1a0ILnu5rQ4zt/view?usp=sharing)
-* [Lecture video: Basic Charts-2 (18:40)](https://drive.google.com/file/d/1ZKmD132J0PXp7sZnbyes0Y_PSjgkOJYK/view?usp=sharing)
-* [Lecture video: Basic Charts-3 (10:18)](https://drive.google.com/file/d/1get7_tvs9KGobV0hG6pHdnzBGBbWG8uJ/view?usp=sharing)
+* [Lecture videos: Basic Charts](https://youtube.com/playlist?list=PLk8hZQByYcuAOnbZrKLp4LxE9Lyhe07ni)
 
 __Suggested Reading on Basic Charts:__
 * Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019.

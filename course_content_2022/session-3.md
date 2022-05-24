@@ -3,7 +3,7 @@ back to [course content](index#course-organisation)
 
 # Week 3: Visualization Tools
 
-[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-tool-marketplace) | [Assignment](#assignment)
+[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-tool-marketplace)
 <p><br /></p>
 
 #### Session topics
