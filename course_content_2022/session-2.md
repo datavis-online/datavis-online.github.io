@@ -125,13 +125,12 @@ Tutorial introduction [video on sketching](https://youtu.be/zaWquoSD_NQ) and [sl
         - what ideas came up in freestyle drawing? 
             - does this approach liberate or constrain you in coming up with ideas?
     <br /><br />
-1. Activity 1 (30 min) <a name="general_guidelines"></a> &ndash; _General Guidelines_
-    * **On your own**
+1. Activity 1 (30 min) **On your own** <a name="general_guidelines"></a> &ndash; _General Guidelines_
     1. Go through your project definition and reflect on the key questions (~5 min)
         - What is the ___(Big) Question___?
         - What do you want to ___communicate___?
         - Who are you ___communicating___ it to?
-        - What is the ___purpose___ of your visualisation?
+        - What is the ___purpose___ of your visualisation?<br/>
     1. Based on your project definition and data think through potential solutions and sketch designs that illustrate these (~10 min)
         - for this initial exercise focus on what answers your question
             - do not restrict your design to what you already do or the skills you already possess
@@ -140,7 +139,7 @@ Tutorial introduction [video on sketching](https://youtu.be/zaWquoSD_NQ) and [sl
             * your design ideas to your intended target and other stakeholders
             * data content to your intended audience
                 - you may use multiple sketches to explore different options
-                - alternatively, you may have a single sketch broken down into sub-parts
+                - alternatively, you may have a single sketch broken down into sub-parts<br/>
     1. What are you communicating to your target users? (~15 min)
         - how are you communicating this?
         - does your design help your users to achieve their goals &mdash; the big question?
