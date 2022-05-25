@@ -58,28 +58,22 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
   * Which tools does the VisBrowser contain:
     * that you have used before?
     * that are new to you but map to your experience &ndash; technique type, visualisation approach, design, etc.
-    
   * What do you see as the most positive things vs. cons in tools you use now or have used in the past? 
-  
   * Can you think of a tool you think should be listed in the VisBrowser that isn't?
     * please add an entry for it (to avoid duplication designate one scribe per group)
     * include a review to the tool you have experience with. Everyone in the group who has experience of the tool may submit an independent review and rating
     * link to any good tutorials for the tools you add or others you look at that you have used or have been recommended. 
-    
   * Prepare a brief presentation (3min &ndash; tool matrix + 1 slide listing pros vs cons) 
   * Nominate 1 or 2 people to discuss your selected tool  with 'novices'.
-<br />
-
+<br /><br />
 2. Discussion 2 (20 mins)
   * ***Main classroom***
   * round table discussion and presentation  
-    * tool matrix, pros/cons 
-     
+    * tool matrix, pros/cons
   * which tools did you add to the browser?
   * which new tools did you find on the VisBrowser?
   * what guided your approach to rating tools in the VisBrowser? How did this differ from others in your group?
-<br />
-
+<br /><br />
 3. Discussion 3 (25 + 25 mins)
   * ***Within your chosen interest groups***
   * try out tools and resources that match your interests and/or learning goals
@@ -87,26 +81,25 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
     * for your preferred tool search for similar tools  
       * what criteria do you see as important in your similarity search?  
       * does the VisBrowser's results match your requirements?  
-      
   * how useful are the learning resources, if any, available for your choices?
   * how do you typically learn how to use a new tool? 
-<br />
-
+<br /><br />
 4. Discussion 4 (5-10 mins) 
   * ***In the main classroom***
   * reflect on how you would typically go about selecting a visualisation tool for a specific task
     * do you tend to explore tools other than those you normally use?
     * are you influenced in your choices by recommendations from people you know?
     * are you influenced in your choices by recommendations from resources such as the visBrowser?
-  
     * what do you see as important criteria when choosing a tool? 
     * when trying a new tool, are you influenced by the availability and quality of learning resources for the tool? 
-
 <p>&nbsp;</p>
 
 ***
 
 <p>&nbsp;</p>
+
+back to [course content](index#course-organisation)
+
 
 <!-- # Assignment
 
@@ -122,7 +115,3 @@ Select from existing or add a new tool to the <a href="https://vistools.net">Vis
 * If you submitted a review to the tool browser include a copy with your assignment. Alternatively, submit as part of your assignment a brief review as you would submit online.
 
 The submission link will be available from 12:00, 29th May. The [assessments page](assessment.md) provides more detail on submission requirements.      -->
-
-<p>&nbsp;</p>
-
-back to [course content](index#course-organisation)

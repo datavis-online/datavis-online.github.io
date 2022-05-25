@@ -56,9 +56,8 @@ back to [course content](index#course-organisation)
 ***
 
 
-# Quiz
-Quizzes are published at the start of each week on Teams.
-<!-- Available via [Teams](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1620746549505?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1620746549505&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1620746549505) &ndash; solutions will be discussed during the Q&As in week 3. -->
+# Quiz 
+Available via [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-review/0daeee19-7a7d-4d42-b829-89de3e2a8afe?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist) &ndash; solutions will be discussed during the Q&As in week 3.
 <p>&nbsp;</p>
 
 ***
