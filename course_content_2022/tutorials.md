@@ -1,3 +1,5 @@
+back to [course content](index#course-organisation)
+
 # Tutorials
 
 **Please remember that while strongly encouraged, participation in tutorials and all other interactive sessions are OPTIONAL**.  
@@ -30,40 +32,6 @@ Please note the following guidelines, which take into account feedback from inte
 <p>&nbsp;</p>
 
 
-
-<a name = "index"></a>
-## Index
-
-[Week 1](session-1-1#tutorial)  
-* Session 1-1
-    * T1-1a: [45 ways](session-1-1#tutorial-fortyfive_ways)  
-    * T1-1b: [Visualisation lies](session-1-1#tutorial-vis_lies)  
-    * T1-1c: [Basic Charts](session-1-1#tutorial-basic_charts) **[OPTIONAL]**
-* Session 1-2
-    * T1-2a: [Formulating data visualisation brief](session-1-2#tutorial-project_brief)
-    * T1-2b: [EDA &ndash; Exploratory Data Analysis](session-1-2#tutorial-eda_1)
-
-
-<!-- 
-[Week 2](tutorials_week_2.md)  
-* Session 2-1
-    * T2-1: [Design (Sketching)](tutorials_week_2.md#2-1)
-* Session 2-2
-    * T2-2a: [Tool Marketplace](tutorials_week_2.md#2-2a)
-    * T2-2b: [VisBrowser Exercise &amp; Tool Discussion](tutorials_week_2.md#2-2b)
-
-
-[Week 3](tutorials_week_3.md)  
-* Session 3-1
-    * T3-1: [EDA &ndash; Own Data](tutorials_week_3.md#3-1)
-* Session 3-2
-    * T3-2: [Critical Analysis](tutorials_week_3.md#3-2)
-
-[Week 3](tutorials_week_3.md)  
-[Week 4](tutorials_week_4.md)  
-[Week 5](tutorials_week_5.md) 
--->
-<p>&nbsp;</p>
-
+***
 
 back to [index](index)

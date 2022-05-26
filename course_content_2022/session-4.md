@@ -3,7 +3,7 @@ back to [course content](index#course-organisation)
 
 # Week 4: Visualization Techniques I
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-eda-project-data) | [Assignment](#assignment)
+[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-tools1) | [Assignment](#assignment)
 <p><br /></p>
 
 #### Session topics
@@ -47,11 +47,7 @@ __Suggested Reading on Basic Charts:__
 
 ### 2. Multidimensional Data
 * [Lecuture slides: Multidimensional Data](files/4-MultivariateData.pdf)
-* [Lecuture video: Multidimensional Data Intro (0:33)](https://drive.google.com/file/d/1c6tPcYhdnOU_pugETIz9UDvV0yDBRwNZ/view?usp=sharing)
-* [Lecuture video: Multidimensional Data Low Dimensional Data (12:54)](https://drive.google.com/file/d/1ssi64rHDpmY9HX3JGwygD0zzaD_V9DKx/view?usp=sharing)
-* [Lecuture video: Multidimensional Data High Dimensional Data (24:34)](https://drive.google.com/file/d/1cWT62091XAwvNjzhWkMbzK9JxJd17DeW/view?usp=sharing)
-* [Lecuture video: Multidimensional Data Dimensionality Reduction (6:27)](https://drive.google.com/file/d/1Sz2y2xl8V0zESbkfdfkqIMjFWjapnqVH/view?usp=sharing)
-* [Lecuture video: Multidimensional Data Wrap up (2:16)](https://drive.google.com/file/d/16ISNs2QBLh217LQWjdndTBIq6FYeH5Di/view?usp=sharing)
+* [Lecuture videos: Multidimensional Data](https://youtube.com/playlist?list=PLk8hZQByYcuAf0n2YELuEhhryKm6M5t5v)
 
 __Suggested Reading on Multidimensional data:__
 * Shneiderman, Ben. "The eyes have it: A task by data type taxonomy for information visualizations." Proceedings 1996 IEEE symposium on visual languages. IEEE, 1996.
@@ -107,11 +103,17 @@ Quizzes are published at the start of each week on Teams.
 <a name = "tutorial-tools1"></a>
 # Tutorial: Tool Tutorial I
 
-Two tutorials this week will be held simultaneously. Pick one of the tool tutorials to attend:
+The Tuesday/Friday tutorials this week will be unique - feel free to attend one or both as suitable. Tutorials will be recorded for future reference.
+
 <p>&nbsp;</p>
-Tool1/link
+
+### Tuesday 7th June 5-7pm:
+Tool1
+
 <p>&nbsp;</p>
-Tool2/link
+
+### Friday 10th June 1-3pm:
+Tool2
 
         
 <p>&nbsp;</p>

@@ -79,12 +79,19 @@ Quizzes are published at the start of each week on Teams.
 <a name = "tutorial-tools2"></a>
 # Tutorial: Tool Tutorial II
 
-Two tutorials this week will be held simultaneously. Pick one of the tool tutorials to attend:
-<p>&nbsp;</p>
-Tool1/link
-<p>&nbsp;</p>
-Tool2/link
+The Tuesday/Friday tutorials this week will be unique - feel free to attend one or both as suitable. Tutorials will be recorded for future reference.
 
+<p>&nbsp;</p>
+
+### Tuesday 14th June 5-7pm:
+Tool1
+
+<p>&nbsp;</p>
+
+### Friday 17th June 1-3pm:
+Tool2
+
+        
 <p>&nbsp;</p>
 
 ***
