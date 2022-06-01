@@ -3,7 +3,7 @@ back to [course content](index#course-organisation)
 
 # Week 4: Visualization Techniques I
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-tools1) | [Assignment](#assignment)
+[Lecture](#lecture) | [Reading](#reading) | [Quizzes](#quizzes) | [Tutorial](#tutorial-tools1) | [Assignment](#assignment)
 <p><br /></p>
 
 #### Session topics
@@ -86,7 +86,7 @@ __Suggested Reading on Geographical Data:__
 ***
 
 
-# Quiz 
+# Quizzes 
 
 Quizzes are published at the start of each week on Teams.
 
@@ -105,9 +105,7 @@ Quizzes are published at the start of each week on Teams.
 
 The Tuesday/Friday tutorials this week will be unique - feel free to attend one or both as suitable. Tutorials will be recorded for future reference.
 
-<p>&nbsp;</p>
-
-### Tuesday 7th June 5-7pm - Figma:
+## Tuesday 7th June 5-7pm - Figma:
 
 **Dashboard Design and Vector Graphics with Figma:** This tutorial introduces [dashboard design patterns](https://dashboarddesignpatterns.github.io) to streamline the design and design discussion of dashboards. This tutorial does not involve any coding. Instead, it introduces and uses [Figma](https://www.figma.com), a free, web-based, collaborative vector graphics tool that allows for interactive prototyping. The tutorial will include hands-on activities to familiarize you with both dashboard design patterns and sketching semi-interactive dashboards in Figma.
 
@@ -120,24 +118,27 @@ Site: https://www.figma.com/
 
 <p>&nbsp;</p>
 
-### Friday 10th June 1-3pm - Tableau & RawGraphs:
+## Friday 10th June 1-3pm - Tableau & RawGraphs:
 
-**Data Visualization in Tableau Desktop:** This tutorial introduces provides a basic introduction to Tableau Desktop, and how it can be used to create interactive data visualizations. This tutorial does not involve any coding. Participants will get an overview on how to load data into to Tableau Desktop, how to do basic data manipulations, how to create and customize basic graphs, and how to create more complex interlinked dashboards. The tutorial will include a hands-on demo that participants can directly follow on their own computers.\
-Participants should install Tableau Desktop on their computer prior to the tutorial (see links below). Please note that Tableau is only supported on Windows and Mac computers.
+**Data Visualization in Tableau Desktop:** This tutorial provides a basic introduction to Tableau Desktop, and how it can be used to create interactive data visualizations. This tutorial does not involve any coding. Participants will get an overview on how to load data into Tableau Desktop, how to do basic data manipulations, how to create and customize basic graphs, and how to create more complex interlinked dashboards. The tutorial will include a hands-on demo that participants can directly follow on their own computers.\
+**Participants should install Tableau Desktop on their computer prior to the tutorial (see links below). Please note that Tableau is only supported on Windows and Mac computers.**
 
 Skills required: None \
-Software installed: Tableau Desktop. There are two options:\
+Software installed: Tableau Desktop. There are two options:
 * [Install the student version of Tableau (valid for 1 year)](https://www.tableau.com/academic/students). Use your University of Edinburgh email address to sign up! 
 * [Install the free trial version of Tableau (valid for 2 weeks)](https://www.tableau.com/en-gb/trial/tableau-software)
 Other tools: None
 
 Site: https://www.tableau.com/
 
-**Data Visualization in RawGraphs:**
+**Data Visualization in RawGraphs:** This tutorial provides an introduction to RawGraphs, which is a free web-based visualization tool. The tutorial will describe what RawGraphs is and what it is good for. We will cover basic steps such as loading data into RawGraphs and creating and customizing visualizations hands-on. This tutorial does not involve any coding.
 
-****
+Skills required: None \
+Software installed: Browser (Chrome or Firefox preferred) \
+Other tools: None required.
 
-        
+Site: https://app.rawgraphs.io/
+
 <p>&nbsp;</p>
 
 ***
@@ -146,11 +147,11 @@ Site: https://www.tableau.com/
 
 # Assignment
 
-Review the [sketching tutorial](session-2.md#tutorial-2-2) undertaken in Week 2.
+Review the [sketching tutorial](session-2.md#tutorial-2-2-sketching-1h40mins) undertaken in Week 2.
 
 Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).
 
-Submit a copy of your design to [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-editor/a7eefb4f-0f01-40da-9b07-98864207f5dd?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist); the submission link will be available from noon on the 6th June.
+Submit a copy of your design to Teams; the submission link will be available from noon on the 6th June.
 
 <p>&nbsp;</p>
 
