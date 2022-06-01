@@ -120,7 +120,20 @@ Site: https://www.figma.com/
 
 <p>&nbsp;</p>
 
-### Friday 10th June 1-3pm:
+### Friday 10th June 1-3pm - Tableau & RawGraphs:
+
+**Data Visualization in Tableau Desktop:** This tutorial introduces provides a basic introduction to Tableau Desktop, and how it can be used to create interactive data visualizations. This tutorial does not involve any coding. Participants will get an overview on how to load data into to Tableau Desktop, how to do basic data manipulations, how to create and customize basic graphs, and how to create more complex interlinked dashboards. The tutorial will include a hands-on demo that participants can directly follow on their own computers.\
+Participants should install Tableau Desktop on their computer prior to the tutorial (see links below). Please note that Tableau is only supported on Windows and Mac computers.
+
+Skills required: None \
+Software installed: Tableau Desktop. There are two options:\
+* [Install the student version of Tableau (valid for 1 year)](https://www.tableau.com/academic/students). Use your University of Edinburgh email address to sign up! 
+* [Install the free trial version of Tableau (valid for 2 weeks)](https://www.tableau.com/en-gb/trial/tableau-software)
+Other tools: None
+
+Site: https://www.tableau.com/
+
+**Data Visualization in RawGraphs:**
 
 ****
 
