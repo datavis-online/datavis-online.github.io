@@ -3,12 +3,12 @@ back to [course content](index#course-organisation)
 
 # Week 5: Visualization Techniques II
 
-[Lecture](#lecture) | [Quizzes](#quizzes) | [Tutorial](#tutorial-critical-analysis) | [Assignment](#assignment)
+[Lecture](#lecture) | [Quizzes](#quizzes) | [Tutorial](#tutorial-tools2)
 <p><br /></p>
 
 #### Session topics
 
-This session is split again (like session 4) into three lectures out of which you would typically choose one. Again, you may watch all three. You should only attempt the quizzes that match the lecture sets you choose. 
+This session is split again (like session 4) into three lectures out of which you would typically choose one. Again, you may watch all three. You should only attempt the quizzes that match the lecture sets you choose.
 
 * Networks
 * Trees + Hierarchies
@@ -16,19 +16,13 @@ This session is split again (like session 4) into three lectures out of which yo
 
 <p>&nbsp;</p>
 
-
 # Lecture
 
-## Chose (at least) one of the following topics
+## Choose (at least) one of the following topics
 
 ### 1. Networks
-* [Lecture slides: Networks](files/5-Networks.pdf)  
-* [Lecture video: Networks-1 (00:33)](https://drive.google.com/file/d/1bGZgGoM5VmPLJXSXA6t3eIBEBQXNxhpP/view?usp=sharing)
-* [Lecture video: Networks-2 (8:25)](https://drive.google.com/file/d/1Pd9nkxWTcvHY5UoZMY-wadlO9OMnF6Gg/view?usp=sharing)
-* [Lecture video: Networks-3 (16:29)](https://drive.google.com/file/d/1dMiSYUaDxXSvmGFRwsCUePd5lye4OvKj/view?usp=sharing)
-* [Lecture video: Networks-4 (4:50)](https://drive.google.com/file/d/1igNA8yKuGDPJkTJ5hMvbZ3jwO0KSutCb/view?usp=sharing)
-* [Lecture video: Networks-5 (5:12)](https://drive.google.com/file/d/12wyYCwi3BBYxIg1UF9vJ7tgUIsWx4B5B/view?usp=sharing)
-* [Lecture video: Networks-6 (3:11)](https://drive.google.com/file/d/1ORrdVohl3Rak88UaloXT1ZkQXWBbs78u/view?usp=sharing)
+* [Lecture slides: Networks](files/5-Networks.pdf)
+* [Lecture videos: Networks](https://youtube.com/playlist?list=PLk8hZQByYcuBJve8W2MTDdCe_2qBqt3H9)
 
 __Suggested Reading on Networks:__
 * Beck, Fabian, et al. "A taxonomy and survey of dynamic graph visualization." Computer Graphics Forum. Vol. 36. No. 1. 2017: [http://dynamicgraphs.fbeck.com](http://dynamicgraphs.fbeck.com)
@@ -106,8 +100,6 @@ Software installed: Web browser \
 Other tools: None
 
 Site: https://vistorian.github.io/
-
-
 
         
 <p>&nbsp;</p>
