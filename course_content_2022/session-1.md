@@ -71,7 +71,7 @@ Working With Visualizations:
 
 
 # Quiz 
-Available via [Teams](https://assignments.onenote.com/classes/e9b0f008-fac6-4d08-8921-72e502acb356/assignment-review/c143c36e-3153-47d8-b8ff-b8d197fb11b7?returnPath=%2Fclasses%2Fe9b0f008-fac6-4d08-8921-72e502acb356%2Flist) &ndash; solutions will be discussed during the Q&As in week 2.
+Available via [Teams](https://bit.ly/dv4p2022) &ndash; solutions will be discussed during the Q&As in week 2.
 <p>&nbsp;</p>
 
 ***

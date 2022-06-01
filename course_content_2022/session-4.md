@@ -107,13 +107,22 @@ The Tuesday/Friday tutorials this week will be unique - feel free to attend one 
 
 <p>&nbsp;</p>
 
-### Tuesday 7th June 5-7pm:
-Tool1
+### Tuesday 7th June 5-7pm - Figma:
+
+**Dashboard Design and Vector Graphics with Figma:** This tutorial introduces [dashboard design patterns](https://dashboarddesignpatterns.github.io) to streamline the design and design discussion of dashboards. This tutorial does not involve any coding. Instead, it introduces and uses [Figma](https://www.figma.com), a free, web-based, collaborative vector graphics tool that allows for interactive prototyping. The tutorial will include hands-on activities to familiarize you with both dashboard design patterns and sketching semi-interactive dashboards in Figma.
+
+Skills required: None \
+Software installed: Web browser \
+Other tools: Pen and paper
+
+Site: https://www.figma.com/
+
 
 <p>&nbsp;</p>
 
 ### Friday 10th June 1-3pm:
-Tool2
+
+****
 
         
 <p>&nbsp;</p>

@@ -83,13 +83,31 @@ The Tuesday/Friday tutorials this week will be unique - feel free to attend one 
 
 <p>&nbsp;</p>
 
-### Tuesday 14th June 5-7pm:
-Tool1
+### Tuesday 14th June 5-7pm - Observable/D3.js:
+
+**[Observable](https://observablehq.com/) is a platform where you can collaboratively explore, analyze, visualize, and communicate with data on the web.** Its entirely web-based interface features rich database and data manipulation, built-in plots and visualizations, and follows a cell-like structure optimized for collaborative exploration and creation of data-narratives. Observable is built with and powered by D3.js, enabling creation of almost any imaginable visualization.
+
+Skills required: Coding - JavaScript* \
+Software installed: Web browser \
+Other tools: None
+
+Site: https://observablehq.com/
+
+*While Observable has many features which can be used without programming, moderate proficiency in JavaScript is required to get the most out of this tutorial.
 
 <p>&nbsp;</p>
 
-### Friday 17th June 1-3pm:
-Tool2
+### Friday 17th June 1-3pm - The Vistorian:
+
+This tutorial will introduce **interactive network visualization with [The Vistorian](https://vistorian.net)**, which offers four complementary interactive visualizations for geographic, temporal, and multivariate networks (nodelink diagrams, adjacency matrix, timeline, map). In addition, the tool will briefly introduce [NetworkNarratives]( https://vistorian.github.io/networknarratives), a tool to guide network exploration.
+
+Skills required: None \
+Software installed: Web browser \
+Other tools: None
+
+Site: https://vistorian.github.io/
+
+
 
         
 <p>&nbsp;</p>

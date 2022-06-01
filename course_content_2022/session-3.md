@@ -40,9 +40,8 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 ***
 
 # Quiz
-Quizzes are published at the start of each week on Teams.
+Available via [Teams](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1653989167621?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1653989167621&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1653989167621) &ndash; solutions will be discussed during the Q&As in week 4.
 
-<!-- Available via [Teams]() &ndash; solutions will be discussed during the Q&As in Week 4. -->
 <p>&nbsp;</p>
 
 ***
