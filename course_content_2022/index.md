@@ -130,7 +130,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td style = "vertical-align:top;">
       <a href="session-4#lecture">Visualization Techniques I/II</a><br/>
     </td><td>
-      Tool tutorials
+      <a href="session-4#tutorial-tools1">Tool tutorials</a>
     </td><td>
       Sketches
     </td>
@@ -143,7 +143,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td style = "vertical-align:top;">
       <a href="session-5#lecture">Visualization Techniques II/II</a><br/>
     </td><td>
-      Tool tutorials
+      <a href="session-5#tutorial-tools2">Tool tutorials</a>
     </td><td>
       -
     </td>
