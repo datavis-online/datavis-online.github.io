@@ -35,20 +35,14 @@ __Suggested Reading on Networks:__
 
 ### 2. Trees &amp; Hierarchies
 * [Lecture slides: Trees & Hierarchies](files/5-Trees+Hierarchies.pdf)  
-* [Lecture video: Trees & Hierarchies-1 (42:00)](https://drive.google.com/file/d/1PAj4u1JOsnz0ktMBX6MmZGlmKy9h7Uo2/view?usp=sharing)
-* [Lecture video: Trees & Hierarchies-2 (4:51)](https://drive.google.com/file/d/1GP60bvYxU46X4v1zWZKbDHGztCadN1NV/view?usp=sharing)
+* [Lecture videos: Trees & Hierarchies](https://youtube.com/playlist?list=PLk8hZQByYcuDZCOMppyjBWm7EnxfHysTs)
 
 __Suggested Reading on Networks:__
 * Schulz, Hans-Jorg, Steffen Hadlak, and Heidrun Schumann. "The design space of implicit hierarchy visualization: A survey." IEEE transactions on visualization and computer graphics 17.4 (2010): 393-411.
 
 ### 3. Time
 * [Lecture slides: Time](files/5-TemporalData.pdf)  
-* [Lecture video: Time-1 (4:06)](https://drive.google.com/file/d/1CxeNXh2Gl1o2X_W9Gd7FOEqMWnFAlSJO/view?usp=sharing)
-* [Lecture video: Time-2 (2:22)](https://drive.google.com/file/d/10uzyD-AUxNcHnLKetefFe7u5Wj1aqXgf/view?usp=sharing)
-* [Lecture video: Time-3 (13:20)](https://drive.google.com/file/d/1GnSYWw4Y3adYnoaHHQMBtH6ls8-y_9wF/view?usp=sharing)
-* [Lecture video: Time-4 (14:38)](https://drive.google.com/file/d/1Jd7LZX2FK-XlIlR1QoxpAovhTJYQwiPm/view?usp=sharing)
-* [Lecture video: Time-5 (16:07)](https://drive.google.com/file/d/17VOTvVp8s-5Dr2Y7UNcoXFM1LTkGGy-H/view?usp=sharing)
-* [Lecture video: Time-6 (2:27)](https://drive.google.com/file/d/1wKwiSuko7q7VpomPrbgm3_aukLFfCcGx/view?usp=sharing)
+* [Lecture videos: Time](https://youtube.com/playlist?list=PLk8hZQByYcuDZ8I154DOqNj8wHHE4jYZ4)
 
 __Suggested Reading on Temporal Data:__
 * [Alberto Cairo: The Truthful Art: Chapter 8: Revealing Change](https://discovered.ed.ac.uk/discovery/fulldisplay?docid=alma9924580753602466&context=L&vid=44UOE_INST:44UOE_VU2&lang=en&search_scope=UoE&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Alberto%20Cairo&offset=0)
@@ -78,6 +72,7 @@ The Tuesday/Friday tutorials this week will be unique - feel free to attend one 
 <p>&nbsp;</p>
 
 ## Tuesday 14th June 5-7pm - Observable/D3.js:
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a39af4508434740d5aa9c2031c332a074%40thread.tacv2/1652374113644?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
 
 **[Observable](https://observablehq.com/) is a platform where you can collaboratively explore, analyze, visualize, and communicate with data on the web.** Its entirely web-based interface features rich database and data manipulation, built-in plots and visualizations, and follows a cell-like structure optimized for collaborative exploration and creation of data-narratives. Observable is built with and powered by D3.js, enabling creation of almost any imaginable visualization.
 
@@ -92,6 +87,7 @@ Site: https://observablehq.com/
 <p>&nbsp;</p>
 
 ## Friday 17th June 1-3pm - The Vistorian:
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
 
 This tutorial will introduce **interactive network visualization with [The Vistorian](https://vistorian.net)**, which offers four complementary interactive visualizations for geographic, temporal, and multivariate networks (nodelink diagrams, adjacency matrix, timeline, map). In addition, the tool will briefly introduce [NetworkNarratives]( https://vistorian.github.io/networknarratives), a tool to guide network exploration.
 

@@ -9,10 +9,11 @@ Lecture topics:
 
 * Exploration vs. Explanation
 * Storytelling
-* Storytelling structures
-* Storytelling patterns
-* Storytelling Genres 
-* Style and design
+    * Storytelling structures
+    * Storytelling patterns
+    * Storytelling Genres 
+    * Style and design
+<!-- * Data Physicalization - OPTIONAL, TO ADD -->
 
 # Lecture
 

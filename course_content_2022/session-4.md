@@ -106,6 +106,7 @@ Quizzes are published at the start of each week on Teams.
 The Tuesday/Friday tutorials this week will be unique - feel free to attend one or both as suitable. Tutorials will be recorded for future reference.
 
 ## Tuesday 7th June 5-7pm - Figma:
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a39af4508434740d5aa9c2031c332a074%40thread.tacv2/1652374113644?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
 
 **Dashboard Design and Vector Graphics with Figma:** This tutorial introduces [dashboard design patterns](https://dashboarddesignpatterns.github.io) to streamline the design and design discussion of dashboards. This tutorial does not involve any coding. Instead, it introduces and uses [Figma](https://www.figma.com), a free, web-based, collaborative vector graphics tool that allows for interactive prototyping. The tutorial will include hands-on activities to familiarize you with both dashboard design patterns and sketching semi-interactive dashboards in Figma.
 
@@ -113,12 +114,13 @@ Skills required: None \
 Software installed: Web browser \
 Other tools: Pen and paper
 
-Site: https://www.figma.com/
+Site: https://www.figma.com/ \
 
 
 <p>&nbsp;</p>
 
 ## Friday 10th June 1-3pm - Tableau & RawGraphs:
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
 
 **Data Visualization in Tableau Desktop:** This tutorial provides a basic introduction to Tableau Desktop, and how it can be used to create interactive data visualizations. This tutorial does not involve any coding. Participants will get an overview on how to load data into Tableau Desktop, how to do basic data manipulations, how to create and customize basic graphs, and how to create more complex interlinked dashboards. The tutorial will include a hands-on demo that participants can directly follow on their own computers.\
 **Participants should install Tableau Desktop on their computer prior to the tutorial (see links below). Please note that Tableau is only supported on Windows and Mac computers.**
