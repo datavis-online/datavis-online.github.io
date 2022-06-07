@@ -106,7 +106,7 @@ Quizzes are published at the start of each week on Teams.
 The Tuesday/Friday tutorials this week will be unique - feel free to attend one or both as suitable. Tutorials will be recorded for future reference.
 
 ## Tuesday 7th June 5-7pm - Figma:
-[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a39af4508434740d5aa9c2031c332a074%40thread.tacv2/1652374113644?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a39af4508434740d5aa9c2031c332a074%40thread.tacv2/1652374113644?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d) \
 [(Slides available here)](files/tutorials/t4-figma.pdf)
 
 **Dashboard Design and Vector Graphics with Figma:** This tutorial introduces [dashboard design patterns](https://dashboarddesignpatterns.github.io) to streamline the design and design discussion of dashboards. This tutorial does not involve any coding. Instead, it introduces and uses [Figma](https://www.figma.com), a free, web-based, collaborative vector graphics tool that allows for interactive prototyping. The tutorial will include hands-on activities to familiarize you with both dashboard design patterns and sketching semi-interactive dashboards in Figma.
@@ -115,7 +115,7 @@ Skills required: None \
 Software installed: Web browser \
 Other tools: Pen and paper
 
-Site: https://www.figma.com/ \
+Site: https://www.figma.com/
 
 
 <p>&nbsp;</p>
