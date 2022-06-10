@@ -121,7 +121,8 @@ Site: https://www.figma.com/
 <p>&nbsp;</p>
 
 ## Friday 10th June 1-3pm - Tableau & RawGraphs:
-[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d) \
+[(Tableau slides available here)]()
 
 **Data Visualization in Tableau Desktop:** This tutorial provides a basic introduction to Tableau Desktop, and how it can be used to create interactive data visualizations. This tutorial does not involve any coding. Participants will get an overview on how to load data into Tableau Desktop, how to do basic data manipulations, how to create and customize basic graphs, and how to create more complex interlinked dashboards. The tutorial will include a hands-on demo that participants can directly follow on their own computers.\
 **Participants should install Tableau Desktop on their computer prior to the tutorial (see links below). Please note that Tableau is only supported on Windows and Mac computers.**
@@ -132,7 +133,13 @@ Software installed: Tableau Desktop. There are two options:
 * [Install the free trial version of Tableau (valid for 2 weeks)](https://www.tableau.com/en-gb/trial/tableau-software)
 Other tools: None
 
+Files for tutorial: [Download](files/tutorials/tableaudata.zip)
+
 Site: https://www.tableau.com/
+
+***
+
+[(RawGraphs slides available here)](files/tutorials/t4-rawgraphs.pdf)
 
 **Data Visualization in RawGraphs:** This tutorial provides an introduction to RawGraphs, which is a free web-based visualization tool. The tutorial will describe what RawGraphs is and what it is good for. We will cover basic steps such as loading data into RawGraphs and creating and customizing visualizations hands-on. This tutorial does not involve any coding.
 

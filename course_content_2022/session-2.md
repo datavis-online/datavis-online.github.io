@@ -22,7 +22,7 @@ back to [course content](index#course-organisation)
 # Lecture 
 
 ### Slides
-* [Visualization_Design](files/2-Visualization-Design.pdf)  
+* [Visualization Design](files/2-Visualization-Design.pdf)  
 * [Color (extra)](files/2-Color.pdf)  
 * [Sketching (extra)](files/2-Sketching.pdf)
 

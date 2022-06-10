@@ -2,7 +2,7 @@ back to [course content](index#course-organisation)
 
 # Week 7: Evaluation &amp; Interaction Design 
 
-[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-programming_clinic) 
+[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-usability-evaluation) 
 
 Lecture topics: 
 
@@ -15,7 +15,7 @@ Lecture topics:
 # Lecture
 
 #### Slides
-* [Evaluation](files/9-Evaluation.pdf)  
+* [Evaluation](files/7-Evaluation.pdf)  
 
 #### Video lectures
 * [Datavis-7: Evaluation-1 Intro (7:42min)](https://drive.google.com/file/d/1y56Oh0M_VqtjpqijU7CT92x58wUOrw6V/view?usp=sharing)
@@ -26,9 +26,8 @@ Lecture topics:
 * [Datavis-7: Evaluation-6 Wrap up (2:30min)](https://drive.google.com/file/d/1kLQsBUOezs4Zq1WRvhdbfZqZ2Ul-QpUP/view?usp=sharing)
 
 Extra - Interaction
-* [Datavis-7e: Interaction-1 Interaction for Visualization (6:55 min)](https://drive.google.com/file/d/1FPK9LeO_Y0E0ylSTTOT4fi7_G6pWEsud/view?usp=sharing)
-* [Datavis-7e: Interaction-2 Interaction Techniques (23:07min)](https://drive.google.com/file/d/1SLxhCUJdEuw7SF_CgB_NrQYvhaN6i-Db/view?usp=sharing)
-* [Datavis-7e: Interaction-1 Guidelines for Interaction (3:50min)](https://drive.google.com/file/d/1tDdN8wBcESFvAB4sYHQMkGrASXnsRBHq/view?usp=sharing)
+* [Datavis-7e: Interaction](https://drive.google.com/file/d/1FPK9LeO_Y0E0ylSTTOT4fi7_G6pWEsud/view?usp=sharing)
+
 <p>&nbsp;</p>
 
 
