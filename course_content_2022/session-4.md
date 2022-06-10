@@ -88,13 +88,11 @@ __Suggested Reading on Geographical Data:__
 
 # Quizzes 
 
-Quizzes are published at the start of each week on Teams.
+There are 3 quizzes available this week, complementing the lecture material. You should only attempt the quiz(zes) that match the lecture stream(s) you watched.
 
-<!-- Select one of the three quizzes below to complete:
-
-1. [Basic Charts](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1621947644786?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1621947644786&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1621947644786)
-1. [Multidimensional Data](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1621947643749?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1621947643749&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1621947643749)
-1. [Geographical Data](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1621947643953?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1621947643953&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1621947643953) -->
+* [Basic Charts](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1654784679947?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1654784679947&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1654784679947)
+* [Geographical Data](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1654784737753?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1654784737753&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1654784737753)
+* [Multidimensional Data](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1654784783610?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1654784783610&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1654784783610)
 
 <p>&nbsp;</p>
 
@@ -122,7 +120,8 @@ Site: https://www.figma.com/
 
 ## Friday 10th June 1-3pm - Tableau & RawGraphs:
 [(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d) \
-[(Tableau slides available here)]()
+[(Tableau slides available here)](files/tutorials/t4-tableau1.pdf) \
+[(Additional Tableau tutorial)](files/tutorials/t4-tableau2.pdf)
 
 **Data Visualization in Tableau Desktop:** This tutorial provides a basic introduction to Tableau Desktop, and how it can be used to create interactive data visualizations. This tutorial does not involve any coding. Participants will get an overview on how to load data into Tableau Desktop, how to do basic data manipulations, how to create and customize basic graphs, and how to create more complex interlinked dashboards. The tutorial will include a hands-on demo that participants can directly follow on their own computers.\
 **Participants should install Tableau Desktop on their computer prior to the tutorial (see links below). Please note that Tableau is only supported on Windows and Mac computers.**
