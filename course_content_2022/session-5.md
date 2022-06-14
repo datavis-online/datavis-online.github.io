@@ -71,8 +71,9 @@ The Tuesday/Friday tutorials this week will be unique - feel free to attend one 
 
 <p>&nbsp;</p>
 
-## Tuesday 14th June 5-7pm - Observable/D3.js:
-[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a39af4508434740d5aa9c2031c332a074%40thread.tacv2/1652374113644?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
+## Tuesday 14th June 5-7pm - Observable:
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a39af4508434740d5aa9c2031c332a074%40thread.tacv2/1652374113644?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d) \
+[(Slides available here)](files/tutorials/t5-observable.pdf)
 
 **[Observable](https://observablehq.com/) is a platform where you can collaboratively explore, analyze, visualize, and communicate with data on the web.** Its entirely web-based interface features rich database and data manipulation, built-in plots and visualizations, and follows a cell-like structure optimized for collaborative exploration and creation of data-narratives. Observable is built with and powered by D3.js, enabling creation of almost any imaginable visualization.
 
