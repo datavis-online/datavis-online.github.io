@@ -54,13 +54,11 @@ __Suggested Reading on Temporal Data:__
 
 # Quizzes
 
-Quizzes are published at the start of each week on Teams.
-
-<!-- Select one of the three quizzes below to complete:
+Select one of the three quizzes below to complete:
 
 1. [Graphs &amp; Networks](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552429509?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552429509&teamName=DataVis4Professionals&channelName=General&createdTime=1622552429509)
 1. [Trees &amp; Hierarchies](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552430307?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552430307&teamName=DataVis4Professionals&channelName=General&createdTime=1622552430307)
-1. [Time](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552429324?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552429324&teamName=DataVis4Professionals&channelName=General&createdTime=1622552429324) -->
+1. [Time](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1655388349973?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1655388349973&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1655388349973)
 
 <p>&nbsp;</p>
 
@@ -88,7 +86,8 @@ Site: https://observablehq.com/
 <p>&nbsp;</p>
 
 ## Friday 17th June 1-3pm - The Vistorian:
-[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)
+[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)\
+[(Slides available here)](files/tutorials/t5-vistorian.pdf)
 
 This tutorial will introduce **interactive network visualization with [The Vistorian](https://vistorian.net)**, which offers four complementary interactive visualizations for geographic, temporal, and multivariate networks (nodelink diagrams, adjacency matrix, timeline, map). In addition, the tool will briefly introduce [NetworkNarratives]( https://vistorian.github.io/networknarratives), a tool to guide network exploration.
 
@@ -98,6 +97,7 @@ Other tools: None
 
 Site: https://vistorian.github.io/
 
+Files for tutorial: [Download](files/tutorials/vistoriandata.zip)
         
 <p>&nbsp;</p>
 
