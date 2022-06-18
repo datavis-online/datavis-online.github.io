@@ -56,8 +56,8 @@ __Suggested Reading on Temporal Data:__
 
 Select one of the three quizzes below to complete:
 
-1. [Graphs &amp; Networks](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552429509?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552429509&teamName=DataVis4Professionals&channelName=General&createdTime=1622552429509)
-1. [Trees &amp; Hierarchies](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552430307?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552430307&teamName=DataVis4Professionals&channelName=General&createdTime=1622552430307)
+1. [Graphs &amp; Networks](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1655388422853?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1655388422853&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1655388422853)
+1. [Trees &amp; Hierarchies](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1655388369495?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1655388369495&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1655388369495)
 1. [Time](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1655388349973?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1655388349973&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1655388349973)
 
 <p>&nbsp;</p>
