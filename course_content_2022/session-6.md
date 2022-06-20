@@ -13,12 +13,17 @@ back to [course content](index)
     * Storytelling patterns
     * Storytelling Genres 
     * Style and design
-<!-- * Data Physicalization - OPTIONAL, TO ADD -->
+* Data Physicalization
 
 # Lecture
 
+### Slides
 * [Lecture Slides: Storytelling](files/6-Storytelling.pdf)  
+* [Lecture Slides: Physicalization (extra)](files/6-DataPhysicalization.pdf)
+
+### Videos
 * [Lecture videos: Storytelling](https://youtube.com/playlist?list=PLk8hZQByYcuBfbmGkWC98MSqUDq_UF1_S)
+* [Lecture videos: Physicalization (extra)](https://youtube.com/playlist?list=PLk8hZQByYcuB-FD36Le0szCA-WaPc970D)
 
 ## Suggested reading
 
@@ -44,9 +49,8 @@ back to [course content](index)
 
 # Quiz
 
-Quizzes are published at the start of each week on Teams.
+The [quiz this week](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e7010916a839bbb@thread.tacv2/1655719350688?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=e9b0f008-fac6-4d08-8921-72e502acb356&parentMessageId=1655719350688&teamName=DataVis4Professionals%202022&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1655719350688) encourages you to reflect on storytelling, and Narratives in Data Visualization.
 
-<!-- [Quiz]() -->
 
 <p>&nbsp;</p>
 
