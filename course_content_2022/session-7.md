@@ -7,10 +7,11 @@ back to [course content](index#course-organisation)
 Lecture topics: 
 
 * Evaluating Visualizations
-* Heuristics and Guidelines
-* Case studies
-* Subjective Feedback
-* Objective Measurements
+    * Heuristics and Guidelines
+    * Case studies
+    * Subjective Feedback
+    * Objective Measurements
+* Interaction in Data Visualization
 
 # Lecture
 
@@ -20,7 +21,7 @@ Lecture topics:
 
 #### Video lectures
 * [Evaluation](https://youtube.com/playlist?list=PLk8hZQByYcuAP7efM82o6Nyaw9dbo8erh)
-* [Interaction (extra)]()
+* [Interaction (extra)](https://youtube.com/playlist?list=PLk8hZQByYcuCCIb9QyTKLwhOOGmLEPxGq)
 
 <p>&nbsp;</p>
 
