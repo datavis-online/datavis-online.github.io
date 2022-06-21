@@ -73,7 +73,7 @@ The report should be immediately followed by these _four_ critical appendices:
 
 ***
 
-## Marking \& Rubric
+## Marking & Rubric
 
 ### Guidance
 
@@ -91,7 +91,7 @@ The report should be immediately followed by these _four_ critical appendices:
     * Unacceptable: Perhaps some good design decisions made, but no transparency on why. Distinct lack of justification for any questionable design decisions. Design may be misleading/deceptive, without proper mitigation.
     * Pass: Sufficient justification of any important design decision that relates to scenario; such as visualization techniques, coloring, labeling, information, storytelling genre (if any), interactivity etc.
     * Exceptional: Clear justification and excellent communication of design process. Presentation of rule-breaking or non-traditional decisions explained through well-defined and nuanced argument, indicating exceptional understanding and communication.
-* Clarity, Quality \& Creativity of Final Visualization: _Is the implemented artefact faithful to the design, well-executed, and creative?_
+* Clarity, Quality & Creativity of Final Visualization: _Is the implemented artefact faithful to the design, well-executed, and creative?_
     * Unacceptable: Final visualization not present, unrelated to design process, or does not surpass sketching submission.
     * Pass: A visualization artefact faithful to designer goals, allowing user insight through good visualization technique and clear communication.
     * Exceptional: A visualization artefact achieving a wide range of design goals, with superior e.g. technological, narrative, or presentation qualities. Submission demonstrates engagement outside and beyond the course content.
