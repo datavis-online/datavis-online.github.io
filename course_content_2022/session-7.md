@@ -15,18 +15,12 @@ Lecture topics:
 # Lecture
 
 #### Slides
-* [Evaluation](files/7-Evaluation.pdf)  
+* [Evaluation](files/7-Evaluation.pdf)
+* [Interaction (extra)](files/7-Interaction.pdf)
 
 #### Video lectures
-* [Datavis-7: Evaluation-1 Intro (7:42min)](https://drive.google.com/file/d/1y56Oh0M_VqtjpqijU7CT92x58wUOrw6V/view?usp=sharing)
-* [Datavis-7: Evaluation-2 Heuristics and Guidelines (20:30min)](https://drive.google.com/file/d/1dpkF0vILbYYIAQjn9CAtMbmMSfFfiL41/view?usp=sharing)
-* [Datavis-7: Evaluation-3 Case Studies (2:26min)](https://drive.google.com/file/d/1oxc5ckWNZl0SkC3Tljtr0O88f1Gy1-pX/view?usp=sharing)
-* [Datavis-7: Evaluation-4 Subjective Feedback (5:47min)](https://drive.google.com/file/d/1OgkNRU5Onxi0BI-hc2kgvLOXkndsIed6/view?usp=sharing)
-* [Datavis-7: Evaluation-5 Objective Measurements (3:48min)](https://drive.google.com/file/d/1IUSsGVGB_QfEYkAf0vYsyAQ8nSASMDIk/view?usp=sharing)
-* [Datavis-7: Evaluation-6 Wrap up (2:30min)](https://drive.google.com/file/d/1kLQsBUOezs4Zq1WRvhdbfZqZ2Ul-QpUP/view?usp=sharing)
-
-Extra - Interaction
-* [Datavis-7e: Interaction](https://drive.google.com/file/d/1FPK9LeO_Y0E0ylSTTOT4fi7_G6pWEsud/view?usp=sharing)
+* [Evaluation](https://youtube.com/playlist?list=PLk8hZQByYcuAP7efM82o6Nyaw9dbo8erh)
+* [Interaction (extra)]()
 
 <p>&nbsp;</p>
 

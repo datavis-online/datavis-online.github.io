@@ -132,7 +132,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     </td><td>
       <a href="session-4#tutorial-tools1">Tool tutorials</a>
     </td><td>
-      Sketches
+      <a href="session-4#Assignment">Sketches</a><br/>
     </td>
   </tr>
   
@@ -156,8 +156,8 @@ Please remember that while **strongly encouraged**, participation in tutorials a
     <td style = "vertical-align:top;">
       <a href="session-6#lecture">Storytelling</a>
     </td><td>
-      <a href="session-6#design-data-comics">Storyboarding</a>
-    </td><td>
+      <a href="session-6#tutorial">Storyboarding</a>
+    </td><td>-
     </td>
   </tr>
   
@@ -169,7 +169,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
       <a href="session-7#lecture">Evaluation &amp; Interaction Design</a>
     </td><td>
        <a href="session-7#tutorial-programming_clinic">Evaluation</a>
-    </td><td>
+    </td><td>-
     </td>
   </tr>
   
@@ -181,7 +181,7 @@ Please remember that while **strongly encouraged**, participation in tutorials a
       Project 1-on-1s
     </td>
     <td>-</td>
-    <td>Final Project</td>
+    <td><a href="session-8#assignment">Final Project</a></td>
   </tr>
   
 </table>

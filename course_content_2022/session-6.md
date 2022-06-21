@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 6: Storytelling
 
-[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#design-data-comics) 
+[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial) 
 
 #### Session topics: 
 
@@ -54,14 +54,29 @@ The [quiz this week](https://teams.microsoft.com/l/message/19:d2f073b5f4fc43469e
 
 <p>&nbsp;</p>
 
-<a name = "design-data-comics"></a>
-# Tutorial: Storyboarding - Data Comics Workshop
+***
 
-Guest speaker: __Zezhong Wang__
+# Tutorial
 
-As a rather novel format, [data comics](https://datacomics.github.io) leverage the visual language and storytelling concepts from traditional comics (panels, pages, characters, temporal change) to communicate insights about data, and break down the complexity of visualizations. This tutorial will be conducted as a structured workshop, in which we will use data comics to present data stories with data visualisations. You only need to prepare the data you want to tell a story from, ideally from your project, along with a pen/pencils for sketching and paper.
+### Storyboarding - Data Comics Workshop
 
-[Workshop slides](https://drive.google.com/file/d/1UnXZoqFryjvBvDRR2zPSvDt-Phwcc9af/view?usp=sharing)
+[Tutorial slides](files/tutorials/t6-datacomics.pdf)
+
+As a rather novel format, [data comics](https://datacomics.github.io) leverage the visual language and storytelling concepts from traditional comics (panels, pages, characters, temporal change) to communicate insights about data, and break down the complexity of visualizations. This tutorial will be conducted as a structured workshop, in which we will use data comics to present data stories with data visualisations. You only need to prepare the data you want to tell a story from, ideally from your project, along with a pen/pencils and paper for sketching. Post-it notes may also be useful.
+
+1. Introduction 1 - What are data comics? (10 min)
+1. Activity 1 - Warm-up Sketching (5 min)
+1. Introduction 2 - The Story (10 min)
+1. Activity 2 - Story Creation (20 min)
+1. Introduction 3 - Panels \& Flow (10 min)
+1. Activity 3 - Data Comic Draft (30 min)
+1. Discussion - Data Comic Presentations (-end)
+
+
+
+<p>&nbsp;</p>
+
+---
 
 <p>&nbsp;</p>
 
