@@ -65,12 +65,11 @@ Select one of the three quizzes below to complete:
 <a name = "tutorial-tools2"></a>
 # Tutorial: Tool Tutorial II
 
-The Tuesday/Friday tutorials this week will be unique - feel free to attend one or both as suitable. Tutorials will be recorded for future reference.
+[Tool Tutorials were all recorded, and can be viewed here.](https://youtube.com/playlist?list=PLk8hZQByYcuDyPKe2ZEyaAsV7qZ5_Ccqq)
 
 <p>&nbsp;</p>
 
 ## Tuesday 14th June 5-7pm - Observable:
-[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a39af4508434740d5aa9c2031c332a074%40thread.tacv2/1652374113644?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d) \
 [(Slides available here)](files/tutorials/t5-observable.pdf)
 
 **[Observable](https://observablehq.com/) is a platform where you can collaboratively explore, analyze, visualize, and communicate with data on the web.** Its entirely web-based interface features rich database and data manipulation, built-in plots and visualizations, and follows a cell-like structure optimized for collaborative exploration and creation of data-narratives. Observable is built with and powered by D3.js, enabling creation of almost any imaginable visualization.
@@ -86,7 +85,6 @@ Site: https://observablehq.com/
 <p>&nbsp;</p>
 
 ## Friday 17th June 1-3pm - The Vistorian:
-[(Click to join meeting)](https://teams.microsoft.com/l/meetup-join/19%3a0b0f5979be9b420f8e3d76efd35129cc%40thread.tacv2/1652374161957?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22274f4cbc-2545-4fad-adee-799e54013fb1%22%7d)\
 [(Slides available here)](files/tutorials/t5-vistorian.pdf)
 
 This tutorial will introduce **interactive network visualization with [The Vistorian](https://vistorian.net)**, which offers four complementary interactive visualizations for geographic, temporal, and multivariate networks (nodelink diagrams, adjacency matrix, timeline, map). In addition, the tool will briefly introduce [NetworkNarratives]( https://vistorian.github.io/networknarratives), a tool to guide network exploration.
