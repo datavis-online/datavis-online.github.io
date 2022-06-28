@@ -65,11 +65,10 @@ Quizzes are published at the start of each week on Teams.
 1. Discussion 1 (10 min)
     * ___Whole class &ndash; reflection___
         - review project definition and [design guidelines](session-2#design_guidelines)
-        - review feedback (given and received) during 'Critical Analysis' tutorial
-        - review of evaluation heuristics 
-
+        - review of evaluation heuristics
+        - intro to forming an evaluation plan (below)
 1. Activity 1 (15 min)
-    * ___On your own___ (even if working on a group project)
+    * ___On your own___
         - reflect on:
         - your brief and design
             - what is your "___big question___"? Has it changed over the last few weeks?
@@ -78,34 +77,30 @@ Quizzes are published at the start of each week on Teams.
             - you may find it useful to review the recommended evaluation heuristics in the [lecture material](#lecture), along with guidelines such as [Nielsen's 10 heuristics](https://www.nngroup.com/articles/ten-usability-heuristics) and the [SUS (System Usability Scale) questionnaire](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
             - centre each in a user task or scenario
             - critically evaluate your project &ndash; definition, design and implementation &ndash; based on your own and more general guidelines
-
+            - consider components, artefacts and annotations you have ___already created___ and how they may be used as heuristics/guides
 1. Discussion & Reflection 2 (55 min)
     * __Within your group__ (15min * 2)
     * __NOTE:__ ___if your implementation reveals sensitive data and/or processes please speak to a course tutor about adjustments for this exercise___
         * exchange design briefs (with) evaluation checklists) - each must be evaluated by two others in your group
             - provide __constructive__, albeit critical, feedback, suggestions for improvement, scope for extension. This is an opportunity for peer learning, to gain from others' experience and perspectives.
             - start with general heuristics, then follow those defined by its owner
-
     * __On your own or within your project group__ (10min)
         * review feedback
             - note any questions for reviewers
-      
     * __Within your groups__ (15min)
         * round table discussion
             - discuss feedback at a more general level, ask any followup questions
- 
 1. Activity 2 (25 min)
     * ___In the main classroom___  
-    ___On your own (or within your project group)___
+    ___On your own___
         - create an evaluation plan for your project, using as a guide:
             - your project brief and design
-            - feedback from the critical analysis exercises
-            - general evaluation heuristics and those you defined
-                - feedback you have received based on these heuristics
+            - general evaluation heuristics
+            - evaluation heuristics/requirements you defined
+                - feedback you have received based on these heuristics <p>&nbsp;</p>
 
-      
-  __Note:__ the guidelines below specify components of a usability evaluation; use these as a framework for building your plan
-  <p>&nbsp;</p>
+__Note:__ the guidelines below specify components of a usability evaluation; use these as a framework for building your plan
+<p>&nbsp;</p>
   
 <a name = "guidelines_evaluation_plan"></a>
 __General guidelines &amp; best practice for creating an evaluation plan__
@@ -120,14 +115,12 @@ __General guidelines &amp; best practice for creating an evaluation plan__
         - what other information or knowledge the end user needs to make use of the visualisation
     * How do these together answer your big question?
     * Are you testing a hypothesis(es)?
-
 * What are you measuring? Evaluation of information visualisation poses some challenges
     - how do you measure insight? intuitiveness? innovation?
     - how do you evaluate the process involved in using an interactive visualisation?
     - how do you evaluate how your visualisation supports effective communication of data content? and transform this to usable knowledge that can be acted on?
     * Consider also the __RUSTIC heuristic__:
         - Readability, Understandability, Supportiveness, Truthfulness, Insightfulness, Communication
-
 * What study design, protocols or methodology do you want to follow?
     - one-off or longitudinal?
     - expert reviews using heuristics
@@ -144,16 +137,14 @@ __General guidelines &amp; best practice for creating an evaluation plan__
         - results from tasks performed
         - errors during task completion (or not)
         - automated logging of actions and results
-
 * Create your questionnaires
     * pre-evaluation &ndash; including demographics as appropriate
     * post-evaluation &ndash; collect opinions on utility and usability
         - frame questions to collect information on experience
         - include specific questions evaluating task performance
         - allow users free-form space for unprompted feedback
-    
-* How will you analyse or evaluate your results?
-    
+* How will you analyse or evaluate your results?<p>&nbsp;</p>
+
 __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, not themselves!!!__
 <p>&nbsp;</p>
 
