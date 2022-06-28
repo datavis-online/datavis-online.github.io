@@ -97,7 +97,7 @@ Quizzes are published at the start of each week on Teams.
             - your project brief and design
             - general evaluation heuristics
             - evaluation heuristics/requirements you defined
-                - feedback you have received based on these heuristics <p>&nbsp;</p>
+                - feedback you have received based on these heuristics &nbsp;
 
 __Note:__ the guidelines below specify components of a usability evaluation; use these as a framework for building your plan
 <p>&nbsp;</p>
